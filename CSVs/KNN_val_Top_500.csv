@@ -1,0 +1,4 @@
+Method,Predicted Negative,Predicted Positive,Accuracy %
+random_state,186,41,81.94
+KFold,185,42,81.5
+cross_val_score,183,44,80.62

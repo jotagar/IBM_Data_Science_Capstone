@@ -1,0 +1,2048 @@
+combo,accuracy,k_value
+"('Hotel',)",0.4678362573099415,19
+"('Tourism',)",0.4444444444444444,18
+"('University',)",0.42105263157894735,8
+"('Cafe',)",0.45614035087719296,18
+"('Pub',)",0.5087719298245614,13
+"('Luas',)",0.4678362573099415,7
+"('Museum',)",0.49122807017543857,10
+"('Restaurant',)",0.4093567251461988,19
+"('Company',)",0.47953216374269003,16
+"('Liffey',)",0.47368421052631576,14
+"('Price Area',)",0.43859649122807015,3
+"('Hotel', 'Tourism')",0.45614035087719296,16
+"('Hotel', 'University')",0.49122807017543857,11
+"('Hotel', 'Cafe')",0.47368421052631576,5
+"('Hotel', 'Pub')",0.4619883040935672,8
+"('Hotel', 'Luas')",0.47368421052631576,12
+"('Hotel', 'Museum')",0.4853801169590643,18
+"('Hotel', 'Restaurant')",0.4093567251461988,14
+"('Hotel', 'Company')",0.49122807017543857,16
+"('Hotel', 'Liffey')",0.4619883040935672,18
+"('Hotel', 'Price Area')",0.47368421052631576,5
+"('Tourism', 'University')",0.4619883040935672,10
+"('Tourism', 'Cafe')",0.4619883040935672,15
+"('Tourism', 'Pub')",0.45614035087719296,19
+"('Tourism', 'Luas')",0.4678362573099415,5
+"('Tourism', 'Museum')",0.4619883040935672,15
+"('Tourism', 'Restaurant')",0.4678362573099415,19
+"('Tourism', 'Company')",0.45614035087719296,8
+"('Tourism', 'Liffey')",0.45614035087719296,1
+"('Tourism', 'Price Area')",0.4619883040935672,8
+"('University', 'Cafe')",0.47368421052631576,7
+"('University', 'Pub')",0.4619883040935672,3
+"('University', 'Luas')",0.5087719298245614,12
+"('University', 'Museum')",0.4444444444444444,4
+"('University', 'Restaurant')",0.4502923976608187,4
+"('University', 'Company')",0.47953216374269003,4
+"('University', 'Liffey')",0.4853801169590643,18
+"('University', 'Price Area')",0.4619883040935672,19
+"('Cafe', 'Pub')",0.47953216374269003,18
+"('Cafe', 'Luas')",0.47368421052631576,16
+"('Cafe', 'Museum')",0.47953216374269003,18
+"('Cafe', 'Restaurant')",0.47953216374269003,10
+"('Cafe', 'Company')",0.5029239766081871,17
+"('Cafe', 'Liffey')",0.4678362573099415,7
+"('Cafe', 'Price Area')",0.47368421052631576,16
+"('Pub', 'Luas')",0.4327485380116959,9
+"('Pub', 'Museum')",0.4678362573099415,4
+"('Pub', 'Restaurant')",0.45614035087719296,12
+"('Pub', 'Company')",0.4678362573099415,15
+"('Pub', 'Liffey')",0.4444444444444444,8
+"('Pub', 'Price Area')",0.4502923976608187,13
+"('Luas', 'Museum')",0.5263157894736842,16
+"('Luas', 'Restaurant')",0.4678362573099415,11
+"('Luas', 'Company')",0.4853801169590643,9
+"('Luas', 'Liffey')",0.4327485380116959,17
+"('Luas', 'Price Area')",0.4619883040935672,15
+"('Museum', 'Restaurant')",0.45614035087719296,17
+"('Museum', 'Company')",0.4619883040935672,19
+"('Museum', 'Liffey')",0.4502923976608187,8
+"('Museum', 'Price Area')",0.4502923976608187,7
+"('Restaurant', 'Company')",0.47953216374269003,12
+"('Restaurant', 'Liffey')",0.42105263157894735,18
+"('Restaurant', 'Price Area')",0.4444444444444444,12
+"('Company', 'Liffey')",0.4678362573099415,4
+"('Company', 'Price Area')",0.47953216374269003,12
+"('Liffey', 'Price Area')",0.45614035087719296,4
+"('Hotel', 'Tourism', 'University')",0.4502923976608187,19
+"('Hotel', 'Tourism', 'Cafe')",0.4678362573099415,19
+"('Hotel', 'Tourism', 'Pub')",0.4619883040935672,15
+"('Hotel', 'Tourism', 'Luas')",0.45614035087719296,4
+"('Hotel', 'Tourism', 'Museum')",0.4678362573099415,12
+"('Hotel', 'Tourism', 'Restaurant')",0.45614035087719296,19
+"('Hotel', 'Tourism', 'Company')",0.4619883040935672,14
+"('Hotel', 'Tourism', 'Liffey')",0.47953216374269003,13
+"('Hotel', 'Tourism', 'Price Area')",0.4619883040935672,18
+"('Hotel', 'University', 'Cafe')",0.4853801169590643,12
+"('Hotel', 'University', 'Pub')",0.49122807017543857,7
+"('Hotel', 'University', 'Luas')",0.4678362573099415,19
+"('Hotel', 'University', 'Museum')",0.4678362573099415,8
+"('Hotel', 'University', 'Restaurant')",0.5146198830409356,17
+"('Hotel', 'University', 'Company')",0.4619883040935672,18
+"('Hotel', 'University', 'Liffey')",0.4678362573099415,13
+"('Hotel', 'University', 'Price Area')",0.4853801169590643,14
+"('Hotel', 'Cafe', 'Pub')",0.4853801169590643,13
+"('Hotel', 'Cafe', 'Luas')",0.4853801169590643,19
+"('Hotel', 'Cafe', 'Museum')",0.4619883040935672,12
+"('Hotel', 'Cafe', 'Restaurant')",0.47368421052631576,14
+"('Hotel', 'Cafe', 'Company')",0.49707602339181284,15
+"('Hotel', 'Cafe', 'Liffey')",0.4853801169590643,19
+"('Hotel', 'Cafe', 'Price Area')",0.4853801169590643,18
+"('Hotel', 'Pub', 'Luas')",0.4678362573099415,13
+"('Hotel', 'Pub', 'Museum')",0.47368421052631576,17
+"('Hotel', 'Pub', 'Restaurant')",0.4327485380116959,14
+"('Hotel', 'Pub', 'Company')",0.4619883040935672,18
+"('Hotel', 'Pub', 'Liffey')",0.47953216374269003,12
+"('Hotel', 'Pub', 'Price Area')",0.4678362573099415,19
+"('Hotel', 'Luas', 'Museum')",0.5029239766081871,12
+"('Hotel', 'Luas', 'Restaurant')",0.45614035087719296,12
+"('Hotel', 'Luas', 'Company')",0.4853801169590643,13
+"('Hotel', 'Luas', 'Liffey')",0.47368421052631576,17
+"('Hotel', 'Luas', 'Price Area')",0.5087719298245614,19
+"('Hotel', 'Museum', 'Restaurant')",0.47368421052631576,12
+"('Hotel', 'Museum', 'Company')",0.4853801169590643,17
+"('Hotel', 'Museum', 'Liffey')",0.5029239766081871,8
+"('Hotel', 'Museum', 'Price Area')",0.49122807017543857,12
+"('Hotel', 'Restaurant', 'Company')",0.49122807017543857,19
+"('Hotel', 'Restaurant', 'Liffey')",0.4444444444444444,15
+"('Hotel', 'Restaurant', 'Price Area')",0.4502923976608187,14
+"('Hotel', 'Company', 'Liffey')",0.45614035087719296,8
+"('Hotel', 'Company', 'Price Area')",0.4853801169590643,14
+"('Hotel', 'Liffey', 'Price Area')",0.4853801169590643,14
+"('Tourism', 'University', 'Cafe')",0.43859649122807015,11
+"('Tourism', 'University', 'Pub')",0.47953216374269003,19
+"('Tourism', 'University', 'Luas')",0.5087719298245614,7
+"('Tourism', 'University', 'Museum')",0.4678362573099415,16
+"('Tourism', 'University', 'Restaurant')",0.4502923976608187,18
+"('Tourism', 'University', 'Company')",0.4619883040935672,19
+"('Tourism', 'University', 'Liffey')",0.49122807017543857,7
+"('Tourism', 'University', 'Price Area')",0.4502923976608187,17
+"('Tourism', 'Cafe', 'Pub')",0.47368421052631576,12
+"('Tourism', 'Cafe', 'Luas')",0.4678362573099415,9
+"('Tourism', 'Cafe', 'Museum')",0.4853801169590643,10
+"('Tourism', 'Cafe', 'Restaurant')",0.47953216374269003,13
+"('Tourism', 'Cafe', 'Company')",0.47953216374269003,19
+"('Tourism', 'Cafe', 'Liffey')",0.4853801169590643,17
+"('Tourism', 'Cafe', 'Price Area')",0.47953216374269003,18
+"('Tourism', 'Pub', 'Luas')",0.4853801169590643,9
+"('Tourism', 'Pub', 'Museum')",0.4619883040935672,15
+"('Tourism', 'Pub', 'Restaurant')",0.4678362573099415,1
+"('Tourism', 'Pub', 'Company')",0.47368421052631576,18
+"('Tourism', 'Pub', 'Liffey')",0.49707602339181284,14
+"('Tourism', 'Pub', 'Price Area')",0.47953216374269003,16
+"('Tourism', 'Luas', 'Museum')",0.49707602339181284,13
+"('Tourism', 'Luas', 'Restaurant')",0.49707602339181284,9
+"('Tourism', 'Luas', 'Company')",0.5029239766081871,5
+"('Tourism', 'Luas', 'Liffey')",0.47953216374269003,9
+"('Tourism', 'Luas', 'Price Area')",0.47953216374269003,7
+"('Tourism', 'Museum', 'Restaurant')",0.4327485380116959,18
+"('Tourism', 'Museum', 'Company')",0.5029239766081871,18
+"('Tourism', 'Museum', 'Liffey')",0.4853801169590643,8
+"('Tourism', 'Museum', 'Price Area')",0.4444444444444444,14
+"('Tourism', 'Restaurant', 'Company')",0.47368421052631576,17
+"('Tourism', 'Restaurant', 'Liffey')",0.47953216374269003,19
+"('Tourism', 'Restaurant', 'Price Area')",0.47368421052631576,17
+"('Tourism', 'Company', 'Liffey')",0.4678362573099415,1
+"('Tourism', 'Company', 'Price Area')",0.4678362573099415,13
+"('Tourism', 'Liffey', 'Price Area')",0.4678362573099415,5
+"('University', 'Cafe', 'Pub')",0.47953216374269003,7
+"('University', 'Cafe', 'Luas')",0.49122807017543857,8
+"('University', 'Cafe', 'Museum')",0.4619883040935672,6
+"('University', 'Cafe', 'Restaurant')",0.4619883040935672,10
+"('University', 'Cafe', 'Company')",0.49707602339181284,15
+"('University', 'Cafe', 'Liffey')",0.4678362573099415,8
+"('University', 'Cafe', 'Price Area')",0.4853801169590643,11
+"('University', 'Pub', 'Luas')",0.47953216374269003,10
+"('University', 'Pub', 'Museum')",0.47953216374269003,19
+"('University', 'Pub', 'Restaurant')",0.47368421052631576,7
+"('University', 'Pub', 'Company')",0.47953216374269003,18
+"('University', 'Pub', 'Liffey')",0.47368421052631576,7
+"('University', 'Pub', 'Price Area')",0.45614035087719296,12
+"('University', 'Luas', 'Museum')",0.5146198830409356,11
+"('University', 'Luas', 'Restaurant')",0.4853801169590643,8
+"('University', 'Luas', 'Company')",0.49122807017543857,6
+"('University', 'Luas', 'Liffey')",0.49122807017543857,19
+"('University', 'Luas', 'Price Area')",0.5146198830409356,6
+"('University', 'Museum', 'Restaurant')",0.47368421052631576,17
+"('University', 'Museum', 'Company')",0.4327485380116959,12
+"('University', 'Museum', 'Liffey')",0.47368421052631576,8
+"('University', 'Museum', 'Price Area')",0.4502923976608187,14
+"('University', 'Restaurant', 'Company')",0.4678362573099415,15
+"('University', 'Restaurant', 'Liffey')",0.4502923976608187,14
+"('University', 'Restaurant', 'Price Area')",0.47368421052631576,19
+"('University', 'Company', 'Liffey')",0.47953216374269003,15
+"('University', 'Company', 'Price Area')",0.49122807017543857,15
+"('University', 'Liffey', 'Price Area')",0.49707602339181284,17
+"('Cafe', 'Pub', 'Luas')",0.4619883040935672,7
+"('Cafe', 'Pub', 'Museum')",0.4678362573099415,1
+"('Cafe', 'Pub', 'Restaurant')",0.47953216374269003,13
+"('Cafe', 'Pub', 'Company')",0.47953216374269003,13
+"('Cafe', 'Pub', 'Liffey')",0.47953216374269003,14
+"('Cafe', 'Pub', 'Price Area')",0.4853801169590643,18
+"('Cafe', 'Luas', 'Museum')",0.47953216374269003,6
+"('Cafe', 'Luas', 'Restaurant')",0.4619883040935672,12
+"('Cafe', 'Luas', 'Company')",0.5029239766081871,7
+"('Cafe', 'Luas', 'Liffey')",0.4502923976608187,10
+"('Cafe', 'Luas', 'Price Area')",0.49707602339181284,10
+"('Cafe', 'Museum', 'Restaurant')",0.4619883040935672,7
+"('Cafe', 'Museum', 'Company')",0.5146198830409356,13
+"('Cafe', 'Museum', 'Liffey')",0.47953216374269003,5
+"('Cafe', 'Museum', 'Price Area')",0.5087719298245614,18
+"('Cafe', 'Restaurant', 'Company')",0.4853801169590643,12
+"('Cafe', 'Restaurant', 'Liffey')",0.4502923976608187,8
+"('Cafe', 'Restaurant', 'Price Area')",0.45614035087719296,7
+"('Cafe', 'Company', 'Liffey')",0.4678362573099415,11
+"('Cafe', 'Company', 'Price Area')",0.49707602339181284,16
+"('Cafe', 'Liffey', 'Price Area')",0.4619883040935672,5
+"('Pub', 'Luas', 'Museum')",0.4853801169590643,12
+"('Pub', 'Luas', 'Restaurant')",0.47953216374269003,14
+"('Pub', 'Luas', 'Company')",0.47953216374269003,15
+"('Pub', 'Luas', 'Liffey')",0.47368421052631576,18
+"('Pub', 'Luas', 'Price Area')",0.49122807017543857,11
+"('Pub', 'Museum', 'Restaurant')",0.47368421052631576,18
+"('Pub', 'Museum', 'Company')",0.49122807017543857,18
+"('Pub', 'Museum', 'Liffey')",0.4619883040935672,8
+"('Pub', 'Museum', 'Price Area')",0.49707602339181284,17
+"('Pub', 'Restaurant', 'Company')",0.47953216374269003,12
+"('Pub', 'Restaurant', 'Liffey')",0.4619883040935672,17
+"('Pub', 'Restaurant', 'Price Area')",0.4619883040935672,7
+"('Pub', 'Company', 'Liffey')",0.47953216374269003,15
+"('Pub', 'Company', 'Price Area')",0.49122807017543857,14
+"('Pub', 'Liffey', 'Price Area')",0.4619883040935672,14
+"('Luas', 'Museum', 'Restaurant')",0.49707602339181284,10
+"('Luas', 'Museum', 'Company')",0.52046783625731,11
+"('Luas', 'Museum', 'Liffey')",0.52046783625731,8
+"('Luas', 'Museum', 'Price Area')",0.4853801169590643,9
+"('Luas', 'Restaurant', 'Company')",0.4853801169590643,6
+"('Luas', 'Restaurant', 'Liffey')",0.45614035087719296,4
+"('Luas', 'Restaurant', 'Price Area')",0.47368421052631576,7
+"('Luas', 'Company', 'Liffey')",0.5087719298245614,6
+"('Luas', 'Company', 'Price Area')",0.49707602339181284,13
+"('Luas', 'Liffey', 'Price Area')",0.5029239766081871,17
+"('Museum', 'Restaurant', 'Company')",0.4853801169590643,14
+"('Museum', 'Restaurant', 'Liffey')",0.47368421052631576,8
+"('Museum', 'Restaurant', 'Price Area')",0.47368421052631576,17
+"('Museum', 'Company', 'Liffey')",0.4619883040935672,13
+"('Museum', 'Company', 'Price Area')",0.49122807017543857,19
+"('Museum', 'Liffey', 'Price Area')",0.4444444444444444,9
+"('Restaurant', 'Company', 'Liffey')",0.4678362573099415,14
+"('Restaurant', 'Company', 'Price Area')",0.5029239766081871,12
+"('Restaurant', 'Liffey', 'Price Area')",0.4678362573099415,14
+"('Company', 'Liffey', 'Price Area')",0.4678362573099415,11
+"('Hotel', 'Tourism', 'University', 'Cafe')",0.4619883040935672,17
+"('Hotel', 'Tourism', 'University', 'Pub')",0.5029239766081871,15
+"('Hotel', 'Tourism', 'University', 'Luas')",0.49122807017543857,19
+"('Hotel', 'Tourism', 'University', 'Museum')",0.47368421052631576,9
+"('Hotel', 'Tourism', 'University', 'Restaurant')",0.49122807017543857,17
+"('Hotel', 'Tourism', 'University', 'Company')",0.4678362573099415,18
+"('Hotel', 'Tourism', 'University', 'Liffey')",0.49707602339181284,6
+"('Hotel', 'Tourism', 'University', 'Price Area')",0.4502923976608187,10
+"('Hotel', 'Tourism', 'Cafe', 'Pub')",0.47368421052631576,10
+"('Hotel', 'Tourism', 'Cafe', 'Luas')",0.47368421052631576,19
+"('Hotel', 'Tourism', 'Cafe', 'Museum')",0.47953216374269003,19
+"('Hotel', 'Tourism', 'Cafe', 'Restaurant')",0.4444444444444444,13
+"('Hotel', 'Tourism', 'Cafe', 'Company')",0.4853801169590643,13
+"('Hotel', 'Tourism', 'Cafe', 'Liffey')",0.47368421052631576,14
+"('Hotel', 'Tourism', 'Cafe', 'Price Area')",0.49122807017543857,19
+"('Hotel', 'Tourism', 'Pub', 'Luas')",0.49122807017543857,12
+"('Hotel', 'Tourism', 'Pub', 'Museum')",0.4853801169590643,16
+"('Hotel', 'Tourism', 'Pub', 'Restaurant')",0.4678362573099415,16
+"('Hotel', 'Tourism', 'Pub', 'Company')",0.47368421052631576,14
+"('Hotel', 'Tourism', 'Pub', 'Liffey')",0.47368421052631576,12
+"('Hotel', 'Tourism', 'Pub', 'Price Area')",0.47953216374269003,19
+"('Hotel', 'Tourism', 'Luas', 'Museum')",0.4678362573099415,12
+"('Hotel', 'Tourism', 'Luas', 'Restaurant')",0.4853801169590643,19
+"('Hotel', 'Tourism', 'Luas', 'Company')",0.4678362573099415,18
+"('Hotel', 'Tourism', 'Luas', 'Liffey')",0.5029239766081871,10
+"('Hotel', 'Tourism', 'Luas', 'Price Area')",0.4502923976608187,3
+"('Hotel', 'Tourism', 'Museum', 'Restaurant')",0.4502923976608187,19
+"('Hotel', 'Tourism', 'Museum', 'Company')",0.4678362573099415,17
+"('Hotel', 'Tourism', 'Museum', 'Liffey')",0.4678362573099415,4
+"('Hotel', 'Tourism', 'Museum', 'Price Area')",0.4678362573099415,10
+"('Hotel', 'Tourism', 'Restaurant', 'Company')",0.47953216374269003,19
+"('Hotel', 'Tourism', 'Restaurant', 'Liffey')",0.4853801169590643,19
+"('Hotel', 'Tourism', 'Restaurant', 'Price Area')",0.49122807017543857,18
+"('Hotel', 'Tourism', 'Company', 'Liffey')",0.47953216374269003,17
+"('Hotel', 'Tourism', 'Company', 'Price Area')",0.45614035087719296,15
+"('Hotel', 'Tourism', 'Liffey', 'Price Area')",0.4619883040935672,16
+"('Hotel', 'University', 'Cafe', 'Pub')",0.47953216374269003,3
+"('Hotel', 'University', 'Cafe', 'Luas')",0.4678362573099415,13
+"('Hotel', 'University', 'Cafe', 'Museum')",0.47368421052631576,11
+"('Hotel', 'University', 'Cafe', 'Restaurant')",0.4678362573099415,11
+"('Hotel', 'University', 'Cafe', 'Company')",0.4853801169590643,14
+"('Hotel', 'University', 'Cafe', 'Liffey')",0.49707602339181284,6
+"('Hotel', 'University', 'Cafe', 'Price Area')",0.4619883040935672,10
+"('Hotel', 'University', 'Pub', 'Luas')",0.4853801169590643,8
+"('Hotel', 'University', 'Pub', 'Museum')",0.5087719298245614,10
+"('Hotel', 'University', 'Pub', 'Restaurant')",0.5087719298245614,8
+"('Hotel', 'University', 'Pub', 'Company')",0.5029239766081871,19
+"('Hotel', 'University', 'Pub', 'Liffey')",0.49707602339181284,9
+"('Hotel', 'University', 'Pub', 'Price Area')",0.4853801169590643,14
+"('Hotel', 'University', 'Luas', 'Museum')",0.4853801169590643,10
+"('Hotel', 'University', 'Luas', 'Restaurant')",0.4853801169590643,17
+"('Hotel', 'University', 'Luas', 'Company')",0.5087719298245614,19
+"('Hotel', 'University', 'Luas', 'Liffey')",0.4853801169590643,8
+"('Hotel', 'University', 'Luas', 'Price Area')",0.49707602339181284,19
+"('Hotel', 'University', 'Museum', 'Restaurant')",0.5087719298245614,13
+"('Hotel', 'University', 'Museum', 'Company')",0.4678362573099415,17
+"('Hotel', 'University', 'Museum', 'Liffey')",0.49707602339181284,4
+"('Hotel', 'University', 'Museum', 'Price Area')",0.45614035087719296,8
+"('Hotel', 'University', 'Restaurant', 'Company')",0.49122807017543857,18
+"('Hotel', 'University', 'Restaurant', 'Liffey')",0.49122807017543857,14
+"('Hotel', 'University', 'Restaurant', 'Price Area')",0.47953216374269003,14
+"('Hotel', 'University', 'Company', 'Liffey')",0.4619883040935672,14
+"('Hotel', 'University', 'Company', 'Price Area')",0.4853801169590643,14
+"('Hotel', 'University', 'Liffey', 'Price Area')",0.49122807017543857,14
+"('Hotel', 'Cafe', 'Pub', 'Luas')",0.47953216374269003,19
+"('Hotel', 'Cafe', 'Pub', 'Museum')",0.4619883040935672,15
+"('Hotel', 'Cafe', 'Pub', 'Restaurant')",0.4619883040935672,10
+"('Hotel', 'Cafe', 'Pub', 'Company')",0.5029239766081871,15
+"('Hotel', 'Cafe', 'Pub', 'Liffey')",0.47368421052631576,13
+"('Hotel', 'Cafe', 'Pub', 'Price Area')",0.49707602339181284,13
+"('Hotel', 'Cafe', 'Luas', 'Museum')",0.47368421052631576,17
+"('Hotel', 'Cafe', 'Luas', 'Restaurant')",0.47368421052631576,19
+"('Hotel', 'Cafe', 'Luas', 'Company')",0.4853801169590643,6
+"('Hotel', 'Cafe', 'Luas', 'Liffey')",0.4678362573099415,10
+"('Hotel', 'Cafe', 'Luas', 'Price Area')",0.47953216374269003,19
+"('Hotel', 'Cafe', 'Museum', 'Restaurant')",0.47953216374269003,13
+"('Hotel', 'Cafe', 'Museum', 'Company')",0.5087719298245614,17
+"('Hotel', 'Cafe', 'Museum', 'Liffey')",0.47368421052631576,1
+"('Hotel', 'Cafe', 'Museum', 'Price Area')",0.49707602339181284,16
+"('Hotel', 'Cafe', 'Restaurant', 'Company')",0.49122807017543857,16
+"('Hotel', 'Cafe', 'Restaurant', 'Liffey')",0.47368421052631576,14
+"('Hotel', 'Cafe', 'Restaurant', 'Price Area')",0.4853801169590643,16
+"('Hotel', 'Cafe', 'Company', 'Liffey')",0.49122807017543857,15
+"('Hotel', 'Cafe', 'Company', 'Price Area')",0.5146198830409356,15
+"('Hotel', 'Cafe', 'Liffey', 'Price Area')",0.47368421052631576,17
+"('Hotel', 'Pub', 'Luas', 'Museum')",0.49122807017543857,12
+"('Hotel', 'Pub', 'Luas', 'Restaurant')",0.49122807017543857,14
+"('Hotel', 'Pub', 'Luas', 'Company')",0.49707602339181284,15
+"('Hotel', 'Pub', 'Luas', 'Liffey')",0.4853801169590643,18
+"('Hotel', 'Pub', 'Luas', 'Price Area')",0.4853801169590643,19
+"('Hotel', 'Pub', 'Museum', 'Restaurant')",0.4853801169590643,10
+"('Hotel', 'Pub', 'Museum', 'Company')",0.49707602339181284,18
+"('Hotel', 'Pub', 'Museum', 'Liffey')",0.47368421052631576,16
+"('Hotel', 'Pub', 'Museum', 'Price Area')",0.47953216374269003,12
+"('Hotel', 'Pub', 'Restaurant', 'Company')",0.49707602339181284,18
+"('Hotel', 'Pub', 'Restaurant', 'Liffey')",0.45614035087719296,16
+"('Hotel', 'Pub', 'Restaurant', 'Price Area')",0.43859649122807015,16
+"('Hotel', 'Pub', 'Company', 'Liffey')",0.4678362573099415,1
+"('Hotel', 'Pub', 'Company', 'Price Area')",0.5029239766081871,18
+"('Hotel', 'Pub', 'Liffey', 'Price Area')",0.5029239766081871,15
+"('Hotel', 'Luas', 'Museum', 'Restaurant')",0.49122807017543857,12
+"('Hotel', 'Luas', 'Museum', 'Company')",0.4853801169590643,12
+"('Hotel', 'Luas', 'Museum', 'Liffey')",0.5087719298245614,6
+"('Hotel', 'Luas', 'Museum', 'Price Area')",0.47368421052631576,12
+"('Hotel', 'Luas', 'Restaurant', 'Company')",0.47953216374269003,16
+"('Hotel', 'Luas', 'Restaurant', 'Liffey')",0.47368421052631576,18
+"('Hotel', 'Luas', 'Restaurant', 'Price Area')",0.5087719298245614,15
+"('Hotel', 'Luas', 'Company', 'Liffey')",0.47368421052631576,16
+"('Hotel', 'Luas', 'Company', 'Price Area')",0.5029239766081871,13
+"('Hotel', 'Luas', 'Liffey', 'Price Area')",0.49707602339181284,18
+"('Hotel', 'Museum', 'Restaurant', 'Company')",0.49122807017543857,14
+"('Hotel', 'Museum', 'Restaurant', 'Liffey')",0.47368421052631576,17
+"('Hotel', 'Museum', 'Restaurant', 'Price Area')",0.4853801169590643,16
+"('Hotel', 'Museum', 'Company', 'Liffey')",0.5029239766081871,18
+"('Hotel', 'Museum', 'Company', 'Price Area')",0.49122807017543857,18
+"('Hotel', 'Museum', 'Liffey', 'Price Area')",0.49707602339181284,8
+"('Hotel', 'Restaurant', 'Company', 'Liffey')",0.45614035087719296,17
+"('Hotel', 'Restaurant', 'Company', 'Price Area')",0.5146198830409356,18
+"('Hotel', 'Restaurant', 'Liffey', 'Price Area')",0.4678362573099415,14
+"('Hotel', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,19
+"('Tourism', 'University', 'Cafe', 'Pub')",0.4619883040935672,3
+"('Tourism', 'University', 'Cafe', 'Luas')",0.4853801169590643,7
+"('Tourism', 'University', 'Cafe', 'Museum')",0.4502923976608187,15
+"('Tourism', 'University', 'Cafe', 'Restaurant')",0.4444444444444444,10
+"('Tourism', 'University', 'Cafe', 'Company')",0.4678362573099415,13
+"('Tourism', 'University', 'Cafe', 'Liffey')",0.4619883040935672,7
+"('Tourism', 'University', 'Cafe', 'Price Area')",0.45614035087719296,10
+"('Tourism', 'University', 'Pub', 'Luas')",0.47368421052631576,5
+"('Tourism', 'University', 'Pub', 'Museum')",0.49122807017543857,19
+"('Tourism', 'University', 'Pub', 'Restaurant')",0.47368421052631576,17
+"('Tourism', 'University', 'Pub', 'Company')",0.45614035087719296,19
+"('Tourism', 'University', 'Pub', 'Liffey')",0.49122807017543857,3
+"('Tourism', 'University', 'Pub', 'Price Area')",0.4502923976608187,19
+"('Tourism', 'University', 'Luas', 'Museum')",0.49122807017543857,9
+"('Tourism', 'University', 'Luas', 'Restaurant')",0.4853801169590643,7
+"('Tourism', 'University', 'Luas', 'Company')",0.49707602339181284,17
+"('Tourism', 'University', 'Luas', 'Liffey')",0.49707602339181284,7
+"('Tourism', 'University', 'Luas', 'Price Area')",0.5146198830409356,7
+"('Tourism', 'University', 'Museum', 'Restaurant')",0.4444444444444444,17
+"('Tourism', 'University', 'Museum', 'Company')",0.45614035087719296,19
+"('Tourism', 'University', 'Museum', 'Liffey')",0.45614035087719296,13
+"('Tourism', 'University', 'Museum', 'Price Area')",0.4502923976608187,13
+"('Tourism', 'University', 'Restaurant', 'Company')",0.4444444444444444,19
+"('Tourism', 'University', 'Restaurant', 'Liffey')",0.4853801169590643,3
+"('Tourism', 'University', 'Restaurant', 'Price Area')",0.45614035087719296,11
+"('Tourism', 'University', 'Company', 'Liffey')",0.4619883040935672,3
+"('Tourism', 'University', 'Company', 'Price Area')",0.4678362573099415,15
+"('Tourism', 'University', 'Liffey', 'Price Area')",0.47953216374269003,7
+"('Tourism', 'Cafe', 'Pub', 'Luas')",0.47953216374269003,9
+"('Tourism', 'Cafe', 'Pub', 'Museum')",0.49707602339181284,19
+"('Tourism', 'Cafe', 'Pub', 'Restaurant')",0.45614035087719296,14
+"('Tourism', 'Cafe', 'Pub', 'Company')",0.5029239766081871,16
+"('Tourism', 'Cafe', 'Pub', 'Liffey')",0.49122807017543857,13
+"('Tourism', 'Cafe', 'Pub', 'Price Area')",0.49707602339181284,18
+"('Tourism', 'Cafe', 'Luas', 'Museum')",0.45614035087719296,10
+"('Tourism', 'Cafe', 'Luas', 'Restaurant')",0.49122807017543857,18
+"('Tourism', 'Cafe', 'Luas', 'Company')",0.49707602339181284,5
+"('Tourism', 'Cafe', 'Luas', 'Liffey')",0.4619883040935672,11
+"('Tourism', 'Cafe', 'Luas', 'Price Area')",0.4853801169590643,10
+"('Tourism', 'Cafe', 'Museum', 'Restaurant')",0.4619883040935672,18
+"('Tourism', 'Cafe', 'Museum', 'Company')",0.5029239766081871,17
+"('Tourism', 'Cafe', 'Museum', 'Liffey')",0.49122807017543857,5
+"('Tourism', 'Cafe', 'Museum', 'Price Area')",0.47953216374269003,19
+"('Tourism', 'Cafe', 'Restaurant', 'Company')",0.49707602339181284,14
+"('Tourism', 'Cafe', 'Restaurant', 'Liffey')",0.4853801169590643,19
+"('Tourism', 'Cafe', 'Restaurant', 'Price Area')",0.4619883040935672,17
+"('Tourism', 'Cafe', 'Company', 'Liffey')",0.4678362573099415,1
+"('Tourism', 'Cafe', 'Company', 'Price Area')",0.47953216374269003,18
+"('Tourism', 'Cafe', 'Liffey', 'Price Area')",0.47953216374269003,16
+"('Tourism', 'Pub', 'Luas', 'Museum')",0.4853801169590643,9
+"('Tourism', 'Pub', 'Luas', 'Restaurant')",0.5380116959064327,9
+"('Tourism', 'Pub', 'Luas', 'Company')",0.49122807017543857,10
+"('Tourism', 'Pub', 'Luas', 'Liffey')",0.4678362573099415,8
+"('Tourism', 'Pub', 'Luas', 'Price Area')",0.5087719298245614,5
+"('Tourism', 'Pub', 'Museum', 'Restaurant')",0.4619883040935672,14
+"('Tourism', 'Pub', 'Museum', 'Company')",0.49707602339181284,19
+"('Tourism', 'Pub', 'Museum', 'Liffey')",0.47953216374269003,4
+"('Tourism', 'Pub', 'Museum', 'Price Area')",0.4678362573099415,16
+"('Tourism', 'Pub', 'Restaurant', 'Company')",0.47368421052631576,14
+"('Tourism', 'Pub', 'Restaurant', 'Liffey')",0.4678362573099415,14
+"('Tourism', 'Pub', 'Restaurant', 'Price Area')",0.47953216374269003,19
+"('Tourism', 'Pub', 'Company', 'Liffey')",0.47368421052631576,1
+"('Tourism', 'Pub', 'Company', 'Price Area')",0.49707602339181284,18
+"('Tourism', 'Pub', 'Liffey', 'Price Area')",0.4853801169590643,18
+"('Tourism', 'Luas', 'Museum', 'Restaurant')",0.47953216374269003,5
+"('Tourism', 'Luas', 'Museum', 'Company')",0.49122807017543857,12
+"('Tourism', 'Luas', 'Museum', 'Liffey')",0.49122807017543857,9
+"('Tourism', 'Luas', 'Museum', 'Price Area')",0.49707602339181284,10
+"('Tourism', 'Luas', 'Restaurant', 'Company')",0.4853801169590643,5
+"('Tourism', 'Luas', 'Restaurant', 'Liffey')",0.45614035087719296,18
+"('Tourism', 'Luas', 'Restaurant', 'Price Area')",0.5029239766081871,4
+"('Tourism', 'Luas', 'Company', 'Liffey')",0.4853801169590643,5
+"('Tourism', 'Luas', 'Company', 'Price Area')",0.47953216374269003,5
+"('Tourism', 'Luas', 'Liffey', 'Price Area')",0.4678362573099415,9
+"('Tourism', 'Museum', 'Restaurant', 'Company')",0.4502923976608187,14
+"('Tourism', 'Museum', 'Restaurant', 'Liffey')",0.4619883040935672,17
+"('Tourism', 'Museum', 'Restaurant', 'Price Area')",0.4444444444444444,5
+"('Tourism', 'Museum', 'Company', 'Liffey')",0.4444444444444444,1
+"('Tourism', 'Museum', 'Company', 'Price Area')",0.47368421052631576,8
+"('Tourism', 'Museum', 'Liffey', 'Price Area')",0.45614035087719296,4
+"('Tourism', 'Restaurant', 'Company', 'Liffey')",0.4502923976608187,1
+"('Tourism', 'Restaurant', 'Company', 'Price Area')",0.4853801169590643,19
+"('Tourism', 'Restaurant', 'Liffey', 'Price Area')",0.49122807017543857,17
+"('Tourism', 'Company', 'Liffey', 'Price Area')",0.5087719298245614,19
+"('University', 'Cafe', 'Pub', 'Luas')",0.47368421052631576,6
+"('University', 'Cafe', 'Pub', 'Museum')",0.47368421052631576,10
+"('University', 'Cafe', 'Pub', 'Restaurant')",0.4853801169590643,5
+"('University', 'Cafe', 'Pub', 'Company')",0.49707602339181284,19
+"('University', 'Cafe', 'Pub', 'Liffey')",0.4678362573099415,10
+"('University', 'Cafe', 'Pub', 'Price Area')",0.4853801169590643,17
+"('University', 'Cafe', 'Luas', 'Museum')",0.4678362573099415,4
+"('University', 'Cafe', 'Luas', 'Restaurant')",0.4678362573099415,5
+"('University', 'Cafe', 'Luas', 'Company')",0.49707602339181284,6
+"('University', 'Cafe', 'Luas', 'Liffey')",0.47953216374269003,8
+"('University', 'Cafe', 'Luas', 'Price Area')",0.47953216374269003,5
+"('University', 'Cafe', 'Museum', 'Restaurant')",0.4853801169590643,10
+"('University', 'Cafe', 'Museum', 'Company')",0.49122807017543857,18
+"('University', 'Cafe', 'Museum', 'Liffey')",0.47953216374269003,12
+"('University', 'Cafe', 'Museum', 'Price Area')",0.5029239766081871,19
+"('University', 'Cafe', 'Restaurant', 'Company')",0.49707602339181284,15
+"('University', 'Cafe', 'Restaurant', 'Liffey')",0.4619883040935672,3
+"('University', 'Cafe', 'Restaurant', 'Price Area')",0.47368421052631576,14
+"('University', 'Cafe', 'Company', 'Liffey')",0.47368421052631576,15
+"('University', 'Cafe', 'Company', 'Price Area')",0.49122807017543857,15
+"('University', 'Cafe', 'Liffey', 'Price Area')",0.45614035087719296,13
+"('University', 'Pub', 'Luas', 'Museum')",0.4853801169590643,9
+"('University', 'Pub', 'Luas', 'Restaurant')",0.4619883040935672,14
+"('University', 'Pub', 'Luas', 'Company')",0.49122807017543857,10
+"('University', 'Pub', 'Luas', 'Liffey')",0.47368421052631576,7
+"('University', 'Pub', 'Luas', 'Price Area')",0.4619883040935672,7
+"('University', 'Pub', 'Museum', 'Restaurant')",0.49122807017543857,8
+"('University', 'Pub', 'Museum', 'Company')",0.49122807017543857,19
+"('University', 'Pub', 'Museum', 'Liffey')",0.47368421052631576,10
+"('University', 'Pub', 'Museum', 'Price Area')",0.49707602339181284,19
+"('University', 'Pub', 'Restaurant', 'Company')",0.47368421052631576,19
+"('University', 'Pub', 'Restaurant', 'Liffey')",0.4678362573099415,14
+"('University', 'Pub', 'Restaurant', 'Price Area')",0.4502923976608187,14
+"('University', 'Pub', 'Company', 'Liffey')",0.47368421052631576,15
+"('University', 'Pub', 'Company', 'Price Area')",0.49122807017543857,14
+"('University', 'Pub', 'Liffey', 'Price Area')",0.47368421052631576,9
+"('University', 'Luas', 'Museum', 'Restaurant')",0.4853801169590643,14
+"('University', 'Luas', 'Museum', 'Company')",0.52046783625731,15
+"('University', 'Luas', 'Museum', 'Liffey')",0.4853801169590643,10
+"('University', 'Luas', 'Museum', 'Price Area')",0.49707602339181284,9
+"('University', 'Luas', 'Restaurant', 'Company')",0.47953216374269003,10
+"('University', 'Luas', 'Restaurant', 'Liffey')",0.47368421052631576,9
+"('University', 'Luas', 'Restaurant', 'Price Area')",0.4853801169590643,5
+"('University', 'Luas', 'Company', 'Liffey')",0.49707602339181284,18
+"('University', 'Luas', 'Company', 'Price Area')",0.5029239766081871,10
+"('University', 'Luas', 'Liffey', 'Price Area')",0.4853801169590643,7
+"('University', 'Museum', 'Restaurant', 'Company')",0.5146198830409356,19
+"('University', 'Museum', 'Restaurant', 'Liffey')",0.47368421052631576,9
+"('University', 'Museum', 'Restaurant', 'Price Area')",0.49707602339181284,19
+"('University', 'Museum', 'Company', 'Liffey')",0.4619883040935672,7
+"('University', 'Museum', 'Company', 'Price Area')",0.47953216374269003,19
+"('University', 'Museum', 'Liffey', 'Price Area')",0.4619883040935672,14
+"('University', 'Restaurant', 'Company', 'Liffey')",0.4678362573099415,15
+"('University', 'Restaurant', 'Company', 'Price Area')",0.4853801169590643,19
+"('University', 'Restaurant', 'Liffey', 'Price Area')",0.4853801169590643,14
+"('University', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,16
+"('Cafe', 'Pub', 'Luas', 'Museum')",0.47368421052631576,17
+"('Cafe', 'Pub', 'Luas', 'Restaurant')",0.47953216374269003,10
+"('Cafe', 'Pub', 'Luas', 'Company')",0.4853801169590643,18
+"('Cafe', 'Pub', 'Luas', 'Liffey')",0.4678362573099415,18
+"('Cafe', 'Pub', 'Luas', 'Price Area')",0.4853801169590643,8
+"('Cafe', 'Pub', 'Museum', 'Restaurant')",0.4853801169590643,1
+"('Cafe', 'Pub', 'Museum', 'Company')",0.5029239766081871,12
+"('Cafe', 'Pub', 'Museum', 'Liffey')",0.47368421052631576,9
+"('Cafe', 'Pub', 'Museum', 'Price Area')",0.5263157894736842,17
+"('Cafe', 'Pub', 'Restaurant', 'Company')",0.47953216374269003,16
+"('Cafe', 'Pub', 'Restaurant', 'Liffey')",0.47368421052631576,17
+"('Cafe', 'Pub', 'Restaurant', 'Price Area')",0.47953216374269003,18
+"('Cafe', 'Pub', 'Company', 'Liffey')",0.4678362573099415,13
+"('Cafe', 'Pub', 'Company', 'Price Area')",0.49707602339181284,13
+"('Cafe', 'Pub', 'Liffey', 'Price Area')",0.4853801169590643,14
+"('Cafe', 'Luas', 'Museum', 'Restaurant')",0.4853801169590643,8
+"('Cafe', 'Luas', 'Museum', 'Company')",0.5087719298245614,18
+"('Cafe', 'Luas', 'Museum', 'Liffey')",0.4853801169590643,9
+"('Cafe', 'Luas', 'Museum', 'Price Area')",0.49707602339181284,17
+"('Cafe', 'Luas', 'Restaurant', 'Company')",0.49707602339181284,6
+"('Cafe', 'Luas', 'Restaurant', 'Liffey')",0.4502923976608187,4
+"('Cafe', 'Luas', 'Restaurant', 'Price Area')",0.4619883040935672,8
+"('Cafe', 'Luas', 'Company', 'Liffey')",0.49122807017543857,6
+"('Cafe', 'Luas', 'Company', 'Price Area')",0.5029239766081871,7
+"('Cafe', 'Luas', 'Liffey', 'Price Area')",0.4678362573099415,1
+"('Cafe', 'Museum', 'Restaurant', 'Company')",0.5029239766081871,12
+"('Cafe', 'Museum', 'Restaurant', 'Liffey')",0.4678362573099415,19
+"('Cafe', 'Museum', 'Restaurant', 'Price Area')",0.49122807017543857,18
+"('Cafe', 'Museum', 'Company', 'Liffey')",0.47368421052631576,13
+"('Cafe', 'Museum', 'Company', 'Price Area')",0.49707602339181284,13
+"('Cafe', 'Museum', 'Liffey', 'Price Area')",0.47953216374269003,17
+"('Cafe', 'Restaurant', 'Company', 'Liffey')",0.49122807017543857,9
+"('Cafe', 'Restaurant', 'Company', 'Price Area')",0.49707602339181284,12
+"('Cafe', 'Restaurant', 'Liffey', 'Price Area')",0.4678362573099415,8
+"('Cafe', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,7
+"('Pub', 'Luas', 'Museum', 'Restaurant')",0.47368421052631576,11
+"('Pub', 'Luas', 'Museum', 'Company')",0.5029239766081871,10
+"('Pub', 'Luas', 'Museum', 'Liffey')",0.4853801169590643,8
+"('Pub', 'Luas', 'Museum', 'Price Area')",0.4853801169590643,8
+"('Pub', 'Luas', 'Restaurant', 'Company')",0.4853801169590643,16
+"('Pub', 'Luas', 'Restaurant', 'Liffey')",0.4678362573099415,4
+"('Pub', 'Luas', 'Restaurant', 'Price Area')",0.49122807017543857,9
+"('Pub', 'Luas', 'Company', 'Liffey')",0.49122807017543857,18
+"('Pub', 'Luas', 'Company', 'Price Area')",0.49707602339181284,12
+"('Pub', 'Luas', 'Liffey', 'Price Area')",0.4853801169590643,17
+"('Pub', 'Museum', 'Restaurant', 'Company')",0.5146198830409356,14
+"('Pub', 'Museum', 'Restaurant', 'Liffey')",0.4678362573099415,9
+"('Pub', 'Museum', 'Restaurant', 'Price Area')",0.49122807017543857,16
+"('Pub', 'Museum', 'Company', 'Liffey')",0.49707602339181284,7
+"('Pub', 'Museum', 'Company', 'Price Area')",0.5146198830409356,18
+"('Pub', 'Museum', 'Liffey', 'Price Area')",0.4678362573099415,8
+"('Pub', 'Restaurant', 'Company', 'Liffey')",0.4678362573099415,17
+"('Pub', 'Restaurant', 'Company', 'Price Area')",0.4678362573099415,14
+"('Pub', 'Restaurant', 'Liffey', 'Price Area')",0.47368421052631576,16
+"('Pub', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,16
+"('Luas', 'Museum', 'Restaurant', 'Company')",0.5087719298245614,12
+"('Luas', 'Museum', 'Restaurant', 'Liffey')",0.47953216374269003,10
+"('Luas', 'Museum', 'Restaurant', 'Price Area')",0.5087719298245614,14
+"('Luas', 'Museum', 'Company', 'Liffey')",0.49707602339181284,12
+"('Luas', 'Museum', 'Company', 'Price Area')",0.5029239766081871,10
+"('Luas', 'Museum', 'Liffey', 'Price Area')",0.5087719298245614,8
+"('Luas', 'Restaurant', 'Company', 'Liffey')",0.4853801169590643,18
+"('Luas', 'Restaurant', 'Company', 'Price Area')",0.49707602339181284,6
+"('Luas', 'Restaurant', 'Liffey', 'Price Area')",0.49122807017543857,16
+"('Luas', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,5
+"('Museum', 'Restaurant', 'Company', 'Liffey')",0.49122807017543857,18
+"('Museum', 'Restaurant', 'Company', 'Price Area')",0.4853801169590643,16
+"('Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4853801169590643,8
+"('Museum', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,12
+"('Restaurant', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,14
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub')",0.49122807017543857,13
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas')",0.47368421052631576,7
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Museum')",0.4678362573099415,17
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Restaurant')",0.47953216374269003,15
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Company')",0.45614035087719296,12
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Liffey')",0.49122807017543857,10
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Price Area')",0.45614035087719296,10
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas')",0.47953216374269003,19
+"('Hotel', 'Tourism', 'University', 'Pub', 'Museum')",0.4853801169590643,17
+"('Hotel', 'Tourism', 'University', 'Pub', 'Restaurant')",0.5087719298245614,19
+"('Hotel', 'Tourism', 'University', 'Pub', 'Company')",0.47953216374269003,12
+"('Hotel', 'Tourism', 'University', 'Pub', 'Liffey')",0.5146198830409356,10
+"('Hotel', 'Tourism', 'University', 'Pub', 'Price Area')",0.47368421052631576,8
+"('Hotel', 'Tourism', 'University', 'Luas', 'Museum')",0.4853801169590643,19
+"('Hotel', 'Tourism', 'University', 'Luas', 'Restaurant')",0.4678362573099415,15
+"('Hotel', 'Tourism', 'University', 'Luas', 'Company')",0.47368421052631576,17
+"('Hotel', 'Tourism', 'University', 'Luas', 'Liffey')",0.5029239766081871,19
+"('Hotel', 'Tourism', 'University', 'Luas', 'Price Area')",0.4678362573099415,6
+"('Hotel', 'Tourism', 'University', 'Museum', 'Restaurant')",0.4619883040935672,11
+"('Hotel', 'Tourism', 'University', 'Museum', 'Company')",0.47953216374269003,18
+"('Hotel', 'Tourism', 'University', 'Museum', 'Liffey')",0.47368421052631576,12
+"('Hotel', 'Tourism', 'University', 'Museum', 'Price Area')",0.47368421052631576,6
+"('Hotel', 'Tourism', 'University', 'Restaurant', 'Company')",0.4619883040935672,17
+"('Hotel', 'Tourism', 'University', 'Restaurant', 'Liffey')",0.49122807017543857,10
+"('Hotel', 'Tourism', 'University', 'Restaurant', 'Price Area')",0.4619883040935672,17
+"('Hotel', 'Tourism', 'University', 'Company', 'Liffey')",0.4678362573099415,17
+"('Hotel', 'Tourism', 'University', 'Company', 'Price Area')",0.4853801169590643,18
+"('Hotel', 'Tourism', 'University', 'Liffey', 'Price Area')",0.47953216374269003,6
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas')",0.47953216374269003,13
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Museum')",0.49122807017543857,16
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Restaurant')",0.47953216374269003,14
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Company')",0.47953216374269003,13
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Liffey')",0.47953216374269003,11
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Price Area')",0.49707602339181284,16
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Museum')",0.5029239766081871,10
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Restaurant')",0.47368421052631576,8
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Company')",0.4619883040935672,7
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Liffey')",0.49707602339181284,10
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Price Area')",0.49122807017543857,10
+"('Hotel', 'Tourism', 'Cafe', 'Museum', 'Restaurant')",0.47368421052631576,15
+"('Hotel', 'Tourism', 'Cafe', 'Museum', 'Company')",0.5029239766081871,17
+"('Hotel', 'Tourism', 'Cafe', 'Museum', 'Liffey')",0.47953216374269003,1
+"('Hotel', 'Tourism', 'Cafe', 'Museum', 'Price Area')",0.52046783625731,18
+"('Hotel', 'Tourism', 'Cafe', 'Restaurant', 'Company')",0.4678362573099415,15
+"('Hotel', 'Tourism', 'Cafe', 'Restaurant', 'Liffey')",0.4619883040935672,13
+"('Hotel', 'Tourism', 'Cafe', 'Restaurant', 'Price Area')",0.47368421052631576,15
+"('Hotel', 'Tourism', 'Cafe', 'Company', 'Liffey')",0.4619883040935672,1
+"('Hotel', 'Tourism', 'Cafe', 'Company', 'Price Area')",0.5087719298245614,15
+"('Hotel', 'Tourism', 'Cafe', 'Liffey', 'Price Area')",0.4619883040935672,15
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Museum')",0.5087719298245614,10
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Restaurant')",0.47368421052631576,8
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Company')",0.4678362573099415,11
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Liffey')",0.49707602339181284,7
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Price Area')",0.47953216374269003,9
+"('Hotel', 'Tourism', 'Pub', 'Museum', 'Restaurant')",0.47953216374269003,18
+"('Hotel', 'Tourism', 'Pub', 'Museum', 'Company')",0.5029239766081871,19
+"('Hotel', 'Tourism', 'Pub', 'Museum', 'Liffey')",0.4853801169590643,15
+"('Hotel', 'Tourism', 'Pub', 'Museum', 'Price Area')",0.5146198830409356,16
+"('Hotel', 'Tourism', 'Pub', 'Restaurant', 'Company')",0.47953216374269003,14
+"('Hotel', 'Tourism', 'Pub', 'Restaurant', 'Liffey')",0.47368421052631576,14
+"('Hotel', 'Tourism', 'Pub', 'Restaurant', 'Price Area')",0.47953216374269003,16
+"('Hotel', 'Tourism', 'Pub', 'Company', 'Liffey')",0.4619883040935672,14
+"('Hotel', 'Tourism', 'Pub', 'Company', 'Price Area')",0.47368421052631576,14
+"('Hotel', 'Tourism', 'Pub', 'Liffey', 'Price Area')",0.5087719298245614,19
+"('Hotel', 'Tourism', 'Luas', 'Museum', 'Restaurant')",0.47368421052631576,19
+"('Hotel', 'Tourism', 'Luas', 'Museum', 'Company')",0.5087719298245614,15
+"('Hotel', 'Tourism', 'Luas', 'Museum', 'Liffey')",0.5029239766081871,7
+"('Hotel', 'Tourism', 'Luas', 'Museum', 'Price Area')",0.47368421052631576,16
+"('Hotel', 'Tourism', 'Luas', 'Restaurant', 'Company')",0.47368421052631576,18
+"('Hotel', 'Tourism', 'Luas', 'Restaurant', 'Liffey')",0.47953216374269003,18
+"('Hotel', 'Tourism', 'Luas', 'Restaurant', 'Price Area')",0.47368421052631576,15
+"('Hotel', 'Tourism', 'Luas', 'Company', 'Liffey')",0.49122807017543857,19
+"('Hotel', 'Tourism', 'Luas', 'Company', 'Price Area')",0.47953216374269003,10
+"('Hotel', 'Tourism', 'Luas', 'Liffey', 'Price Area')",0.5087719298245614,18
+"('Hotel', 'Tourism', 'Museum', 'Restaurant', 'Company')",0.47368421052631576,18
+"('Hotel', 'Tourism', 'Museum', 'Restaurant', 'Liffey')",0.47368421052631576,14
+"('Hotel', 'Tourism', 'Museum', 'Restaurant', 'Price Area')",0.49707602339181284,18
+"('Hotel', 'Tourism', 'Museum', 'Company', 'Liffey')",0.47368421052631576,19
+"('Hotel', 'Tourism', 'Museum', 'Company', 'Price Area')",0.47953216374269003,17
+"('Hotel', 'Tourism', 'Museum', 'Liffey', 'Price Area')",0.4853801169590643,19
+"('Hotel', 'Tourism', 'Restaurant', 'Company', 'Liffey')",0.4619883040935672,17
+"('Hotel', 'Tourism', 'Restaurant', 'Company', 'Price Area')",0.49707602339181284,19
+"('Hotel', 'Tourism', 'Restaurant', 'Liffey', 'Price Area')",0.47953216374269003,16
+"('Hotel', 'Tourism', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,19
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas')",0.47953216374269003,10
+"('Hotel', 'University', 'Cafe', 'Pub', 'Museum')",0.5029239766081871,10
+"('Hotel', 'University', 'Cafe', 'Pub', 'Restaurant')",0.4853801169590643,18
+"('Hotel', 'University', 'Cafe', 'Pub', 'Company')",0.5263157894736842,18
+"('Hotel', 'University', 'Cafe', 'Pub', 'Liffey')",0.4853801169590643,9
+"('Hotel', 'University', 'Cafe', 'Pub', 'Price Area')",0.47953216374269003,13
+"('Hotel', 'University', 'Cafe', 'Luas', 'Museum')",0.4619883040935672,12
+"('Hotel', 'University', 'Cafe', 'Luas', 'Restaurant')",0.49122807017543857,19
+"('Hotel', 'University', 'Cafe', 'Luas', 'Company')",0.5146198830409356,12
+"('Hotel', 'University', 'Cafe', 'Luas', 'Liffey')",0.49122807017543857,8
+"('Hotel', 'University', 'Cafe', 'Luas', 'Price Area')",0.4678362573099415,13
+"('Hotel', 'University', 'Cafe', 'Museum', 'Restaurant')",0.47368421052631576,10
+"('Hotel', 'University', 'Cafe', 'Museum', 'Company')",0.49122807017543857,11
+"('Hotel', 'University', 'Cafe', 'Museum', 'Liffey')",0.4678362573099415,10
+"('Hotel', 'University', 'Cafe', 'Museum', 'Price Area')",0.47953216374269003,17
+"('Hotel', 'University', 'Cafe', 'Restaurant', 'Company')",0.47368421052631576,16
+"('Hotel', 'University', 'Cafe', 'Restaurant', 'Liffey')",0.4853801169590643,13
+"('Hotel', 'University', 'Cafe', 'Restaurant', 'Price Area')",0.47368421052631576,14
+"('Hotel', 'University', 'Cafe', 'Company', 'Liffey')",0.49707602339181284,14
+"('Hotel', 'University', 'Cafe', 'Company', 'Price Area')",0.5029239766081871,14
+"('Hotel', 'University', 'Cafe', 'Liffey', 'Price Area')",0.4853801169590643,14
+"('Hotel', 'University', 'Pub', 'Luas', 'Museum')",0.5146198830409356,19
+"('Hotel', 'University', 'Pub', 'Luas', 'Restaurant')",0.5146198830409356,11
+"('Hotel', 'University', 'Pub', 'Luas', 'Company')",0.5263157894736842,15
+"('Hotel', 'University', 'Pub', 'Luas', 'Liffey')",0.49707602339181284,9
+"('Hotel', 'University', 'Pub', 'Luas', 'Price Area')",0.5029239766081871,17
+"('Hotel', 'University', 'Pub', 'Museum', 'Restaurant')",0.49707602339181284,17
+"('Hotel', 'University', 'Pub', 'Museum', 'Company')",0.49707602339181284,17
+"('Hotel', 'University', 'Pub', 'Museum', 'Liffey')",0.4678362573099415,14
+"('Hotel', 'University', 'Pub', 'Museum', 'Price Area')",0.4678362573099415,10
+"('Hotel', 'University', 'Pub', 'Restaurant', 'Company')",0.4853801169590643,19
+"('Hotel', 'University', 'Pub', 'Restaurant', 'Liffey')",0.5146198830409356,14
+"('Hotel', 'University', 'Pub', 'Restaurant', 'Price Area')",0.47953216374269003,19
+"('Hotel', 'University', 'Pub', 'Company', 'Liffey')",0.4678362573099415,18
+"('Hotel', 'University', 'Pub', 'Company', 'Price Area')",0.5087719298245614,15
+"('Hotel', 'University', 'Pub', 'Liffey', 'Price Area')",0.5087719298245614,14
+"('Hotel', 'University', 'Luas', 'Museum', 'Restaurant')",0.49122807017543857,14
+"('Hotel', 'University', 'Luas', 'Museum', 'Company')",0.5029239766081871,13
+"('Hotel', 'University', 'Luas', 'Museum', 'Liffey')",0.5087719298245614,9
+"('Hotel', 'University', 'Luas', 'Museum', 'Price Area')",0.49122807017543857,19
+"('Hotel', 'University', 'Luas', 'Restaurant', 'Company')",0.52046783625731,15
+"('Hotel', 'University', 'Luas', 'Restaurant', 'Liffey')",0.49707602339181284,9
+"('Hotel', 'University', 'Luas', 'Restaurant', 'Price Area')",0.5029239766081871,15
+"('Hotel', 'University', 'Luas', 'Company', 'Liffey')",0.49707602339181284,14
+"('Hotel', 'University', 'Luas', 'Company', 'Price Area')",0.5029239766081871,15
+"('Hotel', 'University', 'Luas', 'Liffey', 'Price Area')",0.49122807017543857,8
+"('Hotel', 'University', 'Museum', 'Restaurant', 'Company')",0.49707602339181284,17
+"('Hotel', 'University', 'Museum', 'Restaurant', 'Liffey')",0.47368421052631576,6
+"('Hotel', 'University', 'Museum', 'Restaurant', 'Price Area')",0.47368421052631576,13
+"('Hotel', 'University', 'Museum', 'Company', 'Liffey')",0.4619883040935672,15
+"('Hotel', 'University', 'Museum', 'Company', 'Price Area')",0.49707602339181284,18
+"('Hotel', 'University', 'Museum', 'Liffey', 'Price Area')",0.5029239766081871,14
+"('Hotel', 'University', 'Restaurant', 'Company', 'Liffey')",0.4502923976608187,14
+"('Hotel', 'University', 'Restaurant', 'Company', 'Price Area')",0.5380116959064327,15
+"('Hotel', 'University', 'Restaurant', 'Liffey', 'Price Area')",0.4853801169590643,14
+"('Hotel', 'University', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,16
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Museum')",0.4678362573099415,12
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Restaurant')",0.47953216374269003,19
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Company')",0.4853801169590643,16
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Liffey')",0.4619883040935672,10
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Price Area')",0.4853801169590643,13
+"('Hotel', 'Cafe', 'Pub', 'Museum', 'Restaurant')",0.47953216374269003,1
+"('Hotel', 'Cafe', 'Pub', 'Museum', 'Company')",0.5146198830409356,16
+"('Hotel', 'Cafe', 'Pub', 'Museum', 'Liffey')",0.49122807017543857,1
+"('Hotel', 'Cafe', 'Pub', 'Museum', 'Price Area')",0.49122807017543857,12
+"('Hotel', 'Cafe', 'Pub', 'Restaurant', 'Company')",0.49122807017543857,18
+"('Hotel', 'Cafe', 'Pub', 'Restaurant', 'Liffey')",0.49122807017543857,10
+"('Hotel', 'Cafe', 'Pub', 'Restaurant', 'Price Area')",0.47953216374269003,13
+"('Hotel', 'Cafe', 'Pub', 'Company', 'Liffey')",0.4678362573099415,15
+"('Hotel', 'Cafe', 'Pub', 'Company', 'Price Area')",0.5087719298245614,15
+"('Hotel', 'Cafe', 'Pub', 'Liffey', 'Price Area')",0.47953216374269003,19
+"('Hotel', 'Cafe', 'Luas', 'Museum', 'Restaurant')",0.47953216374269003,12
+"('Hotel', 'Cafe', 'Luas', 'Museum', 'Company')",0.49707602339181284,12
+"('Hotel', 'Cafe', 'Luas', 'Museum', 'Liffey')",0.49122807017543857,1
+"('Hotel', 'Cafe', 'Luas', 'Museum', 'Price Area')",0.49707602339181284,12
+"('Hotel', 'Cafe', 'Luas', 'Restaurant', 'Company')",0.49122807017543857,16
+"('Hotel', 'Cafe', 'Luas', 'Restaurant', 'Liffey')",0.47368421052631576,16
+"('Hotel', 'Cafe', 'Luas', 'Restaurant', 'Price Area')",0.49122807017543857,19
+"('Hotel', 'Cafe', 'Luas', 'Company', 'Liffey')",0.49122807017543857,18
+"('Hotel', 'Cafe', 'Luas', 'Company', 'Price Area')",0.5029239766081871,6
+"('Hotel', 'Cafe', 'Luas', 'Liffey', 'Price Area')",0.4619883040935672,16
+"('Hotel', 'Cafe', 'Museum', 'Restaurant', 'Company')",0.49122807017543857,12
+"('Hotel', 'Cafe', 'Museum', 'Restaurant', 'Liffey')",0.47368421052631576,6
+"('Hotel', 'Cafe', 'Museum', 'Restaurant', 'Price Area')",0.4853801169590643,14
+"('Hotel', 'Cafe', 'Museum', 'Company', 'Liffey')",0.49707602339181284,13
+"('Hotel', 'Cafe', 'Museum', 'Company', 'Price Area')",0.49122807017543857,12
+"('Hotel', 'Cafe', 'Museum', 'Liffey', 'Price Area')",0.4853801169590643,16
+"('Hotel', 'Cafe', 'Restaurant', 'Company', 'Liffey')",0.47368421052631576,16
+"('Hotel', 'Cafe', 'Restaurant', 'Company', 'Price Area')",0.5087719298245614,15
+"('Hotel', 'Cafe', 'Restaurant', 'Liffey', 'Price Area')",0.4678362573099415,16
+"('Hotel', 'Cafe', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,15
+"('Hotel', 'Pub', 'Luas', 'Museum', 'Restaurant')",0.4678362573099415,10
+"('Hotel', 'Pub', 'Luas', 'Museum', 'Company')",0.47953216374269003,17
+"('Hotel', 'Pub', 'Luas', 'Museum', 'Liffey')",0.4853801169590643,1
+"('Hotel', 'Pub', 'Luas', 'Museum', 'Price Area')",0.49707602339181284,14
+"('Hotel', 'Pub', 'Luas', 'Restaurant', 'Company')",0.4853801169590643,18
+"('Hotel', 'Pub', 'Luas', 'Restaurant', 'Liffey')",0.47368421052631576,18
+"('Hotel', 'Pub', 'Luas', 'Restaurant', 'Price Area')",0.49122807017543857,14
+"('Hotel', 'Pub', 'Luas', 'Company', 'Liffey')",0.47368421052631576,18
+"('Hotel', 'Pub', 'Luas', 'Company', 'Price Area')",0.5146198830409356,10
+"('Hotel', 'Pub', 'Luas', 'Liffey', 'Price Area')",0.4853801169590643,18
+"('Hotel', 'Pub', 'Museum', 'Restaurant', 'Company')",0.4853801169590643,17
+"('Hotel', 'Pub', 'Museum', 'Restaurant', 'Liffey')",0.49707602339181284,14
+"('Hotel', 'Pub', 'Museum', 'Restaurant', 'Price Area')",0.49122807017543857,19
+"('Hotel', 'Pub', 'Museum', 'Company', 'Liffey')",0.4678362573099415,7
+"('Hotel', 'Pub', 'Museum', 'Company', 'Price Area')",0.5029239766081871,18
+"('Hotel', 'Pub', 'Museum', 'Liffey', 'Price Area')",0.47368421052631576,7
+"('Hotel', 'Pub', 'Restaurant', 'Company', 'Liffey')",0.47368421052631576,17
+"('Hotel', 'Pub', 'Restaurant', 'Company', 'Price Area')",0.5146198830409356,15
+"('Hotel', 'Pub', 'Restaurant', 'Liffey', 'Price Area')",0.49707602339181284,16
+"('Hotel', 'Pub', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,15
+"('Hotel', 'Luas', 'Museum', 'Restaurant', 'Company')",0.4853801169590643,13
+"('Hotel', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.47953216374269003,9
+"('Hotel', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.5029239766081871,12
+"('Hotel', 'Luas', 'Museum', 'Company', 'Liffey')",0.49707602339181284,1
+"('Hotel', 'Luas', 'Museum', 'Company', 'Price Area')",0.49122807017543857,12
+"('Hotel', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.49122807017543857,8
+"('Hotel', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.49122807017543857,18
+"('Hotel', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.49707602339181284,12
+"('Hotel', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.4853801169590643,16
+"('Hotel', 'Luas', 'Company', 'Liffey', 'Price Area')",0.4619883040935672,16
+"('Hotel', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.4678362573099415,16
+"('Hotel', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.49707602339181284,12
+"('Hotel', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4619883040935672,8
+"('Hotel', 'Museum', 'Company', 'Liffey', 'Price Area')",0.5146198830409356,17
+"('Hotel', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,17
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas')",0.4678362573099415,5
+"('Tourism', 'University', 'Cafe', 'Pub', 'Museum')",0.45614035087719296,15
+"('Tourism', 'University', 'Cafe', 'Pub', 'Restaurant')",0.4619883040935672,19
+"('Tourism', 'University', 'Cafe', 'Pub', 'Company')",0.4678362573099415,16
+"('Tourism', 'University', 'Cafe', 'Pub', 'Liffey')",0.49707602339181284,9
+"('Tourism', 'University', 'Cafe', 'Pub', 'Price Area')",0.4619883040935672,18
+"('Tourism', 'University', 'Cafe', 'Luas', 'Museum')",0.4678362573099415,16
+"('Tourism', 'University', 'Cafe', 'Luas', 'Restaurant')",0.47368421052631576,19
+"('Tourism', 'University', 'Cafe', 'Luas', 'Company')",0.49122807017543857,17
+"('Tourism', 'University', 'Cafe', 'Luas', 'Liffey')",0.4678362573099415,7
+"('Tourism', 'University', 'Cafe', 'Luas', 'Price Area')",0.49707602339181284,7
+"('Tourism', 'University', 'Cafe', 'Museum', 'Restaurant')",0.4502923976608187,16
+"('Tourism', 'University', 'Cafe', 'Museum', 'Company')",0.49122807017543857,17
+"('Tourism', 'University', 'Cafe', 'Museum', 'Liffey')",0.4444444444444444,5
+"('Tourism', 'University', 'Cafe', 'Museum', 'Price Area')",0.47953216374269003,15
+"('Tourism', 'University', 'Cafe', 'Restaurant', 'Company')",0.47368421052631576,14
+"('Tourism', 'University', 'Cafe', 'Restaurant', 'Liffey')",0.47953216374269003,7
+"('Tourism', 'University', 'Cafe', 'Restaurant', 'Price Area')",0.45614035087719296,7
+"('Tourism', 'University', 'Cafe', 'Company', 'Liffey')",0.4678362573099415,7
+"('Tourism', 'University', 'Cafe', 'Company', 'Price Area')",0.4853801169590643,13
+"('Tourism', 'University', 'Cafe', 'Liffey', 'Price Area')",0.47368421052631576,7
+"('Tourism', 'University', 'Pub', 'Luas', 'Museum')",0.49122807017543857,10
+"('Tourism', 'University', 'Pub', 'Luas', 'Restaurant')",0.47953216374269003,9
+"('Tourism', 'University', 'Pub', 'Luas', 'Company')",0.4619883040935672,7
+"('Tourism', 'University', 'Pub', 'Luas', 'Liffey')",0.47953216374269003,9
+"('Tourism', 'University', 'Pub', 'Luas', 'Price Area')",0.47368421052631576,5
+"('Tourism', 'University', 'Pub', 'Museum', 'Restaurant')",0.4619883040935672,16
+"('Tourism', 'University', 'Pub', 'Museum', 'Company')",0.49122807017543857,18
+"('Tourism', 'University', 'Pub', 'Museum', 'Liffey')",0.47368421052631576,3
+"('Tourism', 'University', 'Pub', 'Museum', 'Price Area')",0.47368421052631576,16
+"('Tourism', 'University', 'Pub', 'Restaurant', 'Company')",0.4619883040935672,17
+"('Tourism', 'University', 'Pub', 'Restaurant', 'Liffey')",0.4619883040935672,3
+"('Tourism', 'University', 'Pub', 'Restaurant', 'Price Area')",0.4619883040935672,17
+"('Tourism', 'University', 'Pub', 'Company', 'Liffey')",0.47368421052631576,14
+"('Tourism', 'University', 'Pub', 'Company', 'Price Area')",0.47953216374269003,15
+"('Tourism', 'University', 'Pub', 'Liffey', 'Price Area')",0.4853801169590643,3
+"('Tourism', 'University', 'Luas', 'Museum', 'Restaurant')",0.47368421052631576,8
+"('Tourism', 'University', 'Luas', 'Museum', 'Company')",0.49122807017543857,9
+"('Tourism', 'University', 'Luas', 'Museum', 'Liffey')",0.47368421052631576,1
+"('Tourism', 'University', 'Luas', 'Museum', 'Price Area')",0.5087719298245614,9
+"('Tourism', 'University', 'Luas', 'Restaurant', 'Company')",0.49122807017543857,19
+"('Tourism', 'University', 'Luas', 'Restaurant', 'Liffey')",0.4619883040935672,7
+"('Tourism', 'University', 'Luas', 'Restaurant', 'Price Area')",0.5087719298245614,7
+"('Tourism', 'University', 'Luas', 'Company', 'Liffey')",0.49122807017543857,16
+"('Tourism', 'University', 'Luas', 'Company', 'Price Area')",0.49707602339181284,17
+"('Tourism', 'University', 'Luas', 'Liffey', 'Price Area')",0.4853801169590643,7
+"('Tourism', 'University', 'Museum', 'Restaurant', 'Company')",0.47368421052631576,19
+"('Tourism', 'University', 'Museum', 'Restaurant', 'Liffey')",0.4678362573099415,14
+"('Tourism', 'University', 'Museum', 'Restaurant', 'Price Area')",0.45614035087719296,17
+"('Tourism', 'University', 'Museum', 'Company', 'Liffey')",0.45614035087719296,14
+"('Tourism', 'University', 'Museum', 'Company', 'Price Area')",0.4502923976608187,14
+"('Tourism', 'University', 'Museum', 'Liffey', 'Price Area')",0.45614035087719296,16
+"('Tourism', 'University', 'Restaurant', 'Company', 'Liffey')",0.4678362573099415,13
+"('Tourism', 'University', 'Restaurant', 'Company', 'Price Area')",0.45614035087719296,10
+"('Tourism', 'University', 'Restaurant', 'Liffey', 'Price Area')",0.4853801169590643,3
+"('Tourism', 'University', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,16
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Museum')",0.47953216374269003,10
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Restaurant')",0.49122807017543857,9
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Company')",0.47953216374269003,7
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Liffey')",0.47368421052631576,10
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Price Area')",0.47368421052631576,9
+"('Tourism', 'Cafe', 'Pub', 'Museum', 'Restaurant')",0.4678362573099415,17
+"('Tourism', 'Cafe', 'Pub', 'Museum', 'Company')",0.49122807017543857,19
+"('Tourism', 'Cafe', 'Pub', 'Museum', 'Liffey')",0.47953216374269003,14
+"('Tourism', 'Cafe', 'Pub', 'Museum', 'Price Area')",0.5087719298245614,19
+"('Tourism', 'Cafe', 'Pub', 'Restaurant', 'Company')",0.5029239766081871,16
+"('Tourism', 'Cafe', 'Pub', 'Restaurant', 'Liffey')",0.47368421052631576,16
+"('Tourism', 'Cafe', 'Pub', 'Restaurant', 'Price Area')",0.4678362573099415,17
+"('Tourism', 'Cafe', 'Pub', 'Company', 'Liffey')",0.47953216374269003,14
+"('Tourism', 'Cafe', 'Pub', 'Company', 'Price Area')",0.49122807017543857,11
+"('Tourism', 'Cafe', 'Pub', 'Liffey', 'Price Area')",0.47368421052631576,13
+"('Tourism', 'Cafe', 'Luas', 'Museum', 'Restaurant')",0.47953216374269003,16
+"('Tourism', 'Cafe', 'Luas', 'Museum', 'Company')",0.5146198830409356,12
+"('Tourism', 'Cafe', 'Luas', 'Museum', 'Liffey')",0.4853801169590643,1
+"('Tourism', 'Cafe', 'Luas', 'Museum', 'Price Area')",0.49122807017543857,12
+"('Tourism', 'Cafe', 'Luas', 'Restaurant', 'Company')",0.49707602339181284,5
+"('Tourism', 'Cafe', 'Luas', 'Restaurant', 'Liffey')",0.4678362573099415,18
+"('Tourism', 'Cafe', 'Luas', 'Restaurant', 'Price Area')",0.47368421052631576,7
+"('Tourism', 'Cafe', 'Luas', 'Company', 'Liffey')",0.4853801169590643,5
+"('Tourism', 'Cafe', 'Luas', 'Company', 'Price Area')",0.4853801169590643,5
+"('Tourism', 'Cafe', 'Luas', 'Liffey', 'Price Area')",0.4619883040935672,1
+"('Tourism', 'Cafe', 'Museum', 'Restaurant', 'Company')",0.4853801169590643,19
+"('Tourism', 'Cafe', 'Museum', 'Restaurant', 'Liffey')",0.47368421052631576,1
+"('Tourism', 'Cafe', 'Museum', 'Restaurant', 'Price Area')",0.5087719298245614,19
+"('Tourism', 'Cafe', 'Museum', 'Company', 'Liffey')",0.47953216374269003,15
+"('Tourism', 'Cafe', 'Museum', 'Company', 'Price Area')",0.49707602339181284,17
+"('Tourism', 'Cafe', 'Museum', 'Liffey', 'Price Area')",0.49122807017543857,19
+"('Tourism', 'Cafe', 'Restaurant', 'Company', 'Liffey')",0.47953216374269003,13
+"('Tourism', 'Cafe', 'Restaurant', 'Company', 'Price Area')",0.49707602339181284,13
+"('Tourism', 'Cafe', 'Restaurant', 'Liffey', 'Price Area')",0.4678362573099415,19
+"('Tourism', 'Cafe', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,16
+"('Tourism', 'Pub', 'Luas', 'Museum', 'Restaurant')",0.4853801169590643,17
+"('Tourism', 'Pub', 'Luas', 'Museum', 'Company')",0.4853801169590643,13
+"('Tourism', 'Pub', 'Luas', 'Museum', 'Liffey')",0.4678362573099415,7
+"('Tourism', 'Pub', 'Luas', 'Museum', 'Price Area')",0.49122807017543857,10
+"('Tourism', 'Pub', 'Luas', 'Restaurant', 'Company')",0.4678362573099415,16
+"('Tourism', 'Pub', 'Luas', 'Restaurant', 'Liffey')",0.47368421052631576,18
+"('Tourism', 'Pub', 'Luas', 'Restaurant', 'Price Area')",0.5029239766081871,9
+"('Tourism', 'Pub', 'Luas', 'Company', 'Liffey')",0.4853801169590643,18
+"('Tourism', 'Pub', 'Luas', 'Company', 'Price Area')",0.49122807017543857,10
+"('Tourism', 'Pub', 'Luas', 'Liffey', 'Price Area')",0.4619883040935672,18
+"('Tourism', 'Pub', 'Museum', 'Restaurant', 'Company')",0.47368421052631576,19
+"('Tourism', 'Pub', 'Museum', 'Restaurant', 'Liffey')",0.4678362573099415,1
+"('Tourism', 'Pub', 'Museum', 'Restaurant', 'Price Area')",0.47368421052631576,8
+"('Tourism', 'Pub', 'Museum', 'Company', 'Liffey')",0.49707602339181284,19
+"('Tourism', 'Pub', 'Museum', 'Company', 'Price Area')",0.5087719298245614,19
+"('Tourism', 'Pub', 'Museum', 'Liffey', 'Price Area')",0.4619883040935672,18
+"('Tourism', 'Pub', 'Restaurant', 'Company', 'Liffey')",0.47368421052631576,18
+"('Tourism', 'Pub', 'Restaurant', 'Company', 'Price Area')",0.49122807017543857,19
+"('Tourism', 'Pub', 'Restaurant', 'Liffey', 'Price Area')",0.49122807017543857,1
+"('Tourism', 'Pub', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,14
+"('Tourism', 'Luas', 'Museum', 'Restaurant', 'Company')",0.49122807017543857,15
+"('Tourism', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.47368421052631576,1
+"('Tourism', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.49707602339181284,10
+"('Tourism', 'Luas', 'Museum', 'Company', 'Liffey')",0.49122807017543857,18
+"('Tourism', 'Luas', 'Museum', 'Company', 'Price Area')",0.49707602339181284,10
+"('Tourism', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.47368421052631576,9
+"('Tourism', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.47368421052631576,18
+"('Tourism', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.49122807017543857,5
+"('Tourism', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.45614035087719296,16
+"('Tourism', 'Luas', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,16
+"('Tourism', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.47368421052631576,1
+"('Tourism', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.47953216374269003,19
+"('Tourism', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.45614035087719296,12
+"('Tourism', 'Museum', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,19
+"('Tourism', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,19
+"('University', 'Cafe', 'Pub', 'Luas', 'Museum')",0.45614035087719296,10
+"('University', 'Cafe', 'Pub', 'Luas', 'Restaurant')",0.45614035087719296,5
+"('University', 'Cafe', 'Pub', 'Luas', 'Company')",0.4853801169590643,13
+"('University', 'Cafe', 'Pub', 'Luas', 'Liffey')",0.4678362573099415,9
+"('University', 'Cafe', 'Pub', 'Luas', 'Price Area')",0.4678362573099415,15
+"('University', 'Cafe', 'Pub', 'Museum', 'Restaurant')",0.4678362573099415,7
+"('University', 'Cafe', 'Pub', 'Museum', 'Company')",0.49707602339181284,19
+"('University', 'Cafe', 'Pub', 'Museum', 'Liffey')",0.4853801169590643,10
+"('University', 'Cafe', 'Pub', 'Museum', 'Price Area')",0.5087719298245614,16
+"('University', 'Cafe', 'Pub', 'Restaurant', 'Company')",0.47953216374269003,16
+"('University', 'Cafe', 'Pub', 'Restaurant', 'Liffey')",0.47368421052631576,17
+"('University', 'Cafe', 'Pub', 'Restaurant', 'Price Area')",0.4678362573099415,16
+"('University', 'Cafe', 'Pub', 'Company', 'Liffey')",0.4678362573099415,16
+"('University', 'Cafe', 'Pub', 'Company', 'Price Area')",0.49122807017543857,15
+"('University', 'Cafe', 'Pub', 'Liffey', 'Price Area')",0.4678362573099415,11
+"('University', 'Cafe', 'Luas', 'Museum', 'Restaurant')",0.4853801169590643,8
+"('University', 'Cafe', 'Luas', 'Museum', 'Company')",0.5087719298245614,15
+"('University', 'Cafe', 'Luas', 'Museum', 'Liffey')",0.4678362573099415,4
+"('University', 'Cafe', 'Luas', 'Museum', 'Price Area')",0.47953216374269003,19
+"('University', 'Cafe', 'Luas', 'Restaurant', 'Company')",0.49122807017543857,13
+"('University', 'Cafe', 'Luas', 'Restaurant', 'Liffey')",0.4678362573099415,8
+"('University', 'Cafe', 'Luas', 'Restaurant', 'Price Area')",0.4678362573099415,17
+"('University', 'Cafe', 'Luas', 'Company', 'Liffey')",0.49707602339181284,19
+"('University', 'Cafe', 'Luas', 'Company', 'Price Area')",0.49707602339181284,15
+"('University', 'Cafe', 'Luas', 'Liffey', 'Price Area')",0.47368421052631576,8
+"('University', 'Cafe', 'Museum', 'Restaurant', 'Company')",0.5029239766081871,18
+"('University', 'Cafe', 'Museum', 'Restaurant', 'Liffey')",0.49707602339181284,6
+"('University', 'Cafe', 'Museum', 'Restaurant', 'Price Area')",0.5087719298245614,19
+"('University', 'Cafe', 'Museum', 'Company', 'Liffey')",0.45614035087719296,5
+"('University', 'Cafe', 'Museum', 'Company', 'Price Area')",0.47953216374269003,19
+"('University', 'Cafe', 'Museum', 'Liffey', 'Price Area')",0.47368421052631576,14
+"('University', 'Cafe', 'Restaurant', 'Company', 'Liffey')",0.4619883040935672,6
+"('University', 'Cafe', 'Restaurant', 'Company', 'Price Area')",0.4853801169590643,12
+"('University', 'Cafe', 'Restaurant', 'Liffey', 'Price Area')",0.47368421052631576,12
+"('University', 'Cafe', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,17
+"('University', 'Pub', 'Luas', 'Museum', 'Restaurant')",0.4619883040935672,8
+"('University', 'Pub', 'Luas', 'Museum', 'Company')",0.5087719298245614,13
+"('University', 'Pub', 'Luas', 'Museum', 'Liffey')",0.4853801169590643,8
+"('University', 'Pub', 'Luas', 'Museum', 'Price Area')",0.49122807017543857,16
+"('University', 'Pub', 'Luas', 'Restaurant', 'Company')",0.49122807017543857,14
+"('University', 'Pub', 'Luas', 'Restaurant', 'Liffey')",0.5029239766081871,8
+"('University', 'Pub', 'Luas', 'Restaurant', 'Price Area')",0.4853801169590643,7
+"('University', 'Pub', 'Luas', 'Company', 'Liffey')",0.4853801169590643,14
+"('University', 'Pub', 'Luas', 'Company', 'Price Area')",0.49707602339181284,12
+"('University', 'Pub', 'Luas', 'Liffey', 'Price Area')",0.47953216374269003,3
+"('University', 'Pub', 'Museum', 'Restaurant', 'Company')",0.49122807017543857,19
+"('University', 'Pub', 'Museum', 'Restaurant', 'Liffey')",0.5146198830409356,6
+"('University', 'Pub', 'Museum', 'Restaurant', 'Price Area')",0.47953216374269003,17
+"('University', 'Pub', 'Museum', 'Company', 'Liffey')",0.4678362573099415,19
+"('University', 'Pub', 'Museum', 'Company', 'Price Area')",0.49122807017543857,17
+"('University', 'Pub', 'Museum', 'Liffey', 'Price Area')",0.5029239766081871,14
+"('University', 'Pub', 'Restaurant', 'Company', 'Liffey')",0.47953216374269003,17
+"('University', 'Pub', 'Restaurant', 'Company', 'Price Area')",0.4853801169590643,17
+"('University', 'Pub', 'Restaurant', 'Liffey', 'Price Area')",0.47953216374269003,17
+"('University', 'Pub', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,17
+"('University', 'Luas', 'Museum', 'Restaurant', 'Company')",0.52046783625731,12
+"('University', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.47953216374269003,9
+"('University', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.5146198830409356,14
+"('University', 'Luas', 'Museum', 'Company', 'Liffey')",0.49122807017543857,14
+"('University', 'Luas', 'Museum', 'Company', 'Price Area')",0.52046783625731,15
+"('University', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.4853801169590643,9
+"('University', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.49122807017543857,19
+"('University', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.4853801169590643,10
+"('University', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.47953216374269003,16
+"('University', 'Luas', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,17
+"('University', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.45614035087719296,4
+"('University', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.5087719298245614,18
+"('University', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4502923976608187,6
+"('University', 'Museum', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,14
+"('University', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,16
+"('Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant')",0.4853801169590643,10
+"('Cafe', 'Pub', 'Luas', 'Museum', 'Company')",0.49707602339181284,12
+"('Cafe', 'Pub', 'Luas', 'Museum', 'Liffey')",0.4678362573099415,1
+"('Cafe', 'Pub', 'Luas', 'Museum', 'Price Area')",0.49122807017543857,18
+"('Cafe', 'Pub', 'Luas', 'Restaurant', 'Company')",0.49122807017543857,16
+"('Cafe', 'Pub', 'Luas', 'Restaurant', 'Liffey')",0.47368421052631576,16
+"('Cafe', 'Pub', 'Luas', 'Restaurant', 'Price Area')",0.4853801169590643,8
+"('Cafe', 'Pub', 'Luas', 'Company', 'Liffey')",0.5029239766081871,18
+"('Cafe', 'Pub', 'Luas', 'Company', 'Price Area')",0.5029239766081871,11
+"('Cafe', 'Pub', 'Luas', 'Liffey', 'Price Area')",0.4619883040935672,18
+"('Cafe', 'Pub', 'Museum', 'Restaurant', 'Company')",0.5087719298245614,13
+"('Cafe', 'Pub', 'Museum', 'Restaurant', 'Liffey')",0.5029239766081871,7
+"('Cafe', 'Pub', 'Museum', 'Restaurant', 'Price Area')",0.5029239766081871,19
+"('Cafe', 'Pub', 'Museum', 'Company', 'Liffey')",0.47368421052631576,7
+"('Cafe', 'Pub', 'Museum', 'Company', 'Price Area')",0.52046783625731,19
+"('Cafe', 'Pub', 'Museum', 'Liffey', 'Price Area')",0.4678362573099415,15
+"('Cafe', 'Pub', 'Restaurant', 'Company', 'Liffey')",0.47368421052631576,8
+"('Cafe', 'Pub', 'Restaurant', 'Company', 'Price Area')",0.4853801169590643,15
+"('Cafe', 'Pub', 'Restaurant', 'Liffey', 'Price Area')",0.47953216374269003,1
+"('Cafe', 'Pub', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,12
+"('Cafe', 'Luas', 'Museum', 'Restaurant', 'Company')",0.49122807017543857,12
+"('Cafe', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.4678362573099415,1
+"('Cafe', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.49122807017543857,8
+"('Cafe', 'Luas', 'Museum', 'Company', 'Liffey')",0.5263157894736842,9
+"('Cafe', 'Luas', 'Museum', 'Company', 'Price Area')",0.4853801169590643,10
+"('Cafe', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.47953216374269003,1
+"('Cafe', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.49122807017543857,17
+"('Cafe', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.49707602339181284,6
+"('Cafe', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.4678362573099415,1
+"('Cafe', 'Luas', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,16
+"('Cafe', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.47368421052631576,13
+"('Cafe', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.49707602339181284,19
+"('Cafe', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.49122807017543857,17
+"('Cafe', 'Museum', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,18
+"('Cafe', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,12
+"('Pub', 'Luas', 'Museum', 'Restaurant', 'Company')",0.4853801169590643,12
+"('Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.45614035087719296,1
+"('Pub', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.4853801169590643,10
+"('Pub', 'Luas', 'Museum', 'Company', 'Liffey')",0.49707602339181284,1
+"('Pub', 'Luas', 'Museum', 'Company', 'Price Area')",0.5146198830409356,11
+"('Pub', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.49122807017543857,8
+"('Pub', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.49122807017543857,18
+"('Pub', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.5263157894736842,10
+"('Pub', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.4678362573099415,16
+"('Pub', 'Luas', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,6
+"('Pub', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.47368421052631576,9
+"('Pub', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.5087719298245614,15
+"('Pub', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4678362573099415,9
+"('Pub', 'Museum', 'Company', 'Liffey', 'Price Area')",0.5146198830409356,17
+"('Pub', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,14
+"('Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.5029239766081871,18
+"('Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.5087719298245614,12
+"('Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4853801169590643,16
+"('Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,7
+"('Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,16
+"('Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5263157894736842,16
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas')",0.47368421052631576,19
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Museum')",0.47368421052631576,13
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Restaurant')",0.4853801169590643,15
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Company')",0.49707602339181284,17
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Liffey')",0.49707602339181284,10
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Price Area')",0.49122807017543857,13
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Museum')",0.47368421052631576,8
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Restaurant')",0.4853801169590643,17
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Company')",0.47953216374269003,14
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Liffey')",0.4678362573099415,7
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Price Area')",0.47368421052631576,8
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Museum', 'Restaurant')",0.45614035087719296,15
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Museum', 'Company')",0.47368421052631576,17
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Museum', 'Liffey')",0.47368421052631576,4
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Museum', 'Price Area')",0.4678362573099415,17
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Restaurant', 'Company')",0.49707602339181284,17
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Restaurant', 'Liffey')",0.47953216374269003,10
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Restaurant', 'Price Area')",0.4853801169590643,15
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Company', 'Liffey')",0.47368421052631576,13
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Company', 'Price Area')",0.47368421052631576,12
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Liffey', 'Price Area')",0.47368421052631576,3
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Museum')",0.47953216374269003,5
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Restaurant')",0.4853801169590643,19
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Company')",0.5029239766081871,15
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Liffey')",0.5029239766081871,9
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Price Area')",0.47368421052631576,6
+"('Hotel', 'Tourism', 'University', 'Pub', 'Museum', 'Restaurant')",0.47953216374269003,17
+"('Hotel', 'Tourism', 'University', 'Pub', 'Museum', 'Company')",0.4853801169590643,18
+"('Hotel', 'Tourism', 'University', 'Pub', 'Museum', 'Liffey')",0.4678362573099415,14
+"('Hotel', 'Tourism', 'University', 'Pub', 'Museum', 'Price Area')",0.47953216374269003,17
+"('Hotel', 'Tourism', 'University', 'Pub', 'Restaurant', 'Company')",0.49707602339181284,19
+"('Hotel', 'Tourism', 'University', 'Pub', 'Restaurant', 'Liffey')",0.4853801169590643,10
+"('Hotel', 'Tourism', 'University', 'Pub', 'Restaurant', 'Price Area')",0.47368421052631576,19
+"('Hotel', 'Tourism', 'University', 'Pub', 'Company', 'Liffey')",0.47953216374269003,17
+"('Hotel', 'Tourism', 'University', 'Pub', 'Company', 'Price Area')",0.49707602339181284,13
+"('Hotel', 'Tourism', 'University', 'Pub', 'Liffey', 'Price Area')",0.47953216374269003,10
+"('Hotel', 'Tourism', 'University', 'Luas', 'Museum', 'Restaurant')",0.47953216374269003,16
+"('Hotel', 'Tourism', 'University', 'Luas', 'Museum', 'Company')",0.49122807017543857,16
+"('Hotel', 'Tourism', 'University', 'Luas', 'Museum', 'Liffey')",0.5146198830409356,9
+"('Hotel', 'Tourism', 'University', 'Luas', 'Museum', 'Price Area')",0.47368421052631576,17
+"('Hotel', 'Tourism', 'University', 'Luas', 'Restaurant', 'Company')",0.49122807017543857,16
+"('Hotel', 'Tourism', 'University', 'Luas', 'Restaurant', 'Liffey')",0.49122807017543857,9
+"('Hotel', 'Tourism', 'University', 'Luas', 'Restaurant', 'Price Area')",0.47953216374269003,17
+"('Hotel', 'Tourism', 'University', 'Luas', 'Company', 'Liffey')",0.49122807017543857,17
+"('Hotel', 'Tourism', 'University', 'Luas', 'Company', 'Price Area')",0.4678362573099415,16
+"('Hotel', 'Tourism', 'University', 'Luas', 'Liffey', 'Price Area')",0.4853801169590643,6
+"('Hotel', 'Tourism', 'University', 'Museum', 'Restaurant', 'Company')",0.49122807017543857,19
+"('Hotel', 'Tourism', 'University', 'Museum', 'Restaurant', 'Liffey')",0.4678362573099415,13
+"('Hotel', 'Tourism', 'University', 'Museum', 'Restaurant', 'Price Area')",0.47368421052631576,18
+"('Hotel', 'Tourism', 'University', 'Museum', 'Company', 'Liffey')",0.47368421052631576,17
+"('Hotel', 'Tourism', 'University', 'Museum', 'Company', 'Price Area')",0.4619883040935672,13
+"('Hotel', 'Tourism', 'University', 'Museum', 'Liffey', 'Price Area')",0.4678362573099415,6
+"('Hotel', 'Tourism', 'University', 'Restaurant', 'Company', 'Liffey')",0.4619883040935672,15
+"('Hotel', 'Tourism', 'University', 'Restaurant', 'Company', 'Price Area')",0.47368421052631576,17
+"('Hotel', 'Tourism', 'University', 'Restaurant', 'Liffey', 'Price Area')",0.45614035087719296,6
+"('Hotel', 'Tourism', 'University', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,15
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Museum')",0.5087719298245614,10
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Restaurant')",0.47953216374269003,17
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Company')",0.47368421052631576,16
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Liffey')",0.45614035087719296,4
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Price Area')",0.49122807017543857,9
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Museum', 'Restaurant')",0.47368421052631576,15
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Museum', 'Company')",0.49707602339181284,18
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Museum', 'Liffey')",0.47953216374269003,1
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Museum', 'Price Area')",0.49707602339181284,19
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Restaurant', 'Company')",0.4853801169590643,14
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Restaurant', 'Liffey')",0.49707602339181284,14
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Restaurant', 'Price Area')",0.47953216374269003,14
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Company', 'Liffey')",0.4619883040935672,13
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Company', 'Price Area')",0.49707602339181284,13
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Liffey', 'Price Area')",0.4619883040935672,19
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Museum', 'Restaurant')",0.47953216374269003,16
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Museum', 'Company')",0.47953216374269003,15
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Museum', 'Liffey')",0.47368421052631576,1
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Museum', 'Price Area')",0.5146198830409356,17
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Restaurant', 'Company')",0.47953216374269003,18
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Restaurant', 'Liffey')",0.4619883040935672,17
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Restaurant', 'Price Area')",0.49122807017543857,8
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Company', 'Liffey')",0.49707602339181284,18
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Company', 'Price Area')",0.4853801169590643,11
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Liffey', 'Price Area')",0.47953216374269003,10
+"('Hotel', 'Tourism', 'Cafe', 'Museum', 'Restaurant', 'Company')",0.47953216374269003,18
+"('Hotel', 'Tourism', 'Cafe', 'Museum', 'Restaurant', 'Liffey')",0.47953216374269003,10
+"('Hotel', 'Tourism', 'Cafe', 'Museum', 'Restaurant', 'Price Area')",0.4853801169590643,16
+"('Hotel', 'Tourism', 'Cafe', 'Museum', 'Company', 'Liffey')",0.49122807017543857,17
+"('Hotel', 'Tourism', 'Cafe', 'Museum', 'Company', 'Price Area')",0.5087719298245614,18
+"('Hotel', 'Tourism', 'Cafe', 'Museum', 'Liffey', 'Price Area')",0.4853801169590643,17
+"('Hotel', 'Tourism', 'Cafe', 'Restaurant', 'Company', 'Liffey')",0.47368421052631576,17
+"('Hotel', 'Tourism', 'Cafe', 'Restaurant', 'Company', 'Price Area')",0.5087719298245614,15
+"('Hotel', 'Tourism', 'Cafe', 'Restaurant', 'Liffey', 'Price Area')",0.4619883040935672,14
+"('Hotel', 'Tourism', 'Cafe', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,14
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Museum', 'Restaurant')",0.4853801169590643,16
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Museum', 'Company')",0.47953216374269003,12
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Museum', 'Liffey')",0.5029239766081871,9
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Museum', 'Price Area')",0.5087719298245614,12
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Restaurant', 'Company')",0.4619883040935672,18
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Restaurant', 'Liffey')",0.47368421052631576,18
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Restaurant', 'Price Area')",0.47953216374269003,8
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Company', 'Liffey')",0.4853801169590643,18
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Company', 'Price Area')",0.47368421052631576,10
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Liffey', 'Price Area')",0.47953216374269003,14
+"('Hotel', 'Tourism', 'Pub', 'Museum', 'Restaurant', 'Company')",0.47953216374269003,14
+"('Hotel', 'Tourism', 'Pub', 'Museum', 'Restaurant', 'Liffey')",0.4853801169590643,19
+"('Hotel', 'Tourism', 'Pub', 'Museum', 'Restaurant', 'Price Area')",0.5087719298245614,18
+"('Hotel', 'Tourism', 'Pub', 'Museum', 'Company', 'Liffey')",0.49122807017543857,17
+"('Hotel', 'Tourism', 'Pub', 'Museum', 'Company', 'Price Area')",0.49707602339181284,15
+"('Hotel', 'Tourism', 'Pub', 'Museum', 'Liffey', 'Price Area')",0.47953216374269003,14
+"('Hotel', 'Tourism', 'Pub', 'Restaurant', 'Company', 'Liffey')",0.47953216374269003,14
+"('Hotel', 'Tourism', 'Pub', 'Restaurant', 'Company', 'Price Area')",0.49122807017543857,14
+"('Hotel', 'Tourism', 'Pub', 'Restaurant', 'Liffey', 'Price Area')",0.47953216374269003,15
+"('Hotel', 'Tourism', 'Pub', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,14
+"('Hotel', 'Tourism', 'Luas', 'Museum', 'Restaurant', 'Company')",0.4853801169590643,15
+"('Hotel', 'Tourism', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.49122807017543857,10
+"('Hotel', 'Tourism', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.47953216374269003,17
+"('Hotel', 'Tourism', 'Luas', 'Museum', 'Company', 'Liffey')",0.49707602339181284,15
+"('Hotel', 'Tourism', 'Luas', 'Museum', 'Company', 'Price Area')",0.5029239766081871,15
+"('Hotel', 'Tourism', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.5029239766081871,17
+"('Hotel', 'Tourism', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.5087719298245614,18
+"('Hotel', 'Tourism', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.4853801169590643,6
+"('Hotel', 'Tourism', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.4619883040935672,10
+"('Hotel', 'Tourism', 'Luas', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,16
+"('Hotel', 'Tourism', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.4853801169590643,19
+"('Hotel', 'Tourism', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.47953216374269003,14
+"('Hotel', 'Tourism', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4502923976608187,18
+"('Hotel', 'Tourism', 'Museum', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,19
+"('Hotel', 'Tourism', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,14
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Museum')",0.47368421052631576,19
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Restaurant')",0.5146198830409356,11
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Company')",0.5146198830409356,13
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Liffey')",0.4853801169590643,8
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Price Area')",0.47368421052631576,15
+"('Hotel', 'University', 'Cafe', 'Pub', 'Museum', 'Restaurant')",0.49707602339181284,10
+"('Hotel', 'University', 'Cafe', 'Pub', 'Museum', 'Company')",0.5380116959064327,17
+"('Hotel', 'University', 'Cafe', 'Pub', 'Museum', 'Liffey')",0.5029239766081871,6
+"('Hotel', 'University', 'Cafe', 'Pub', 'Museum', 'Price Area')",0.47368421052631576,11
+"('Hotel', 'University', 'Cafe', 'Pub', 'Restaurant', 'Company')",0.5087719298245614,15
+"('Hotel', 'University', 'Cafe', 'Pub', 'Restaurant', 'Liffey')",0.49122807017543857,8
+"('Hotel', 'University', 'Cafe', 'Pub', 'Restaurant', 'Price Area')",0.4619883040935672,18
+"('Hotel', 'University', 'Cafe', 'Pub', 'Company', 'Liffey')",0.47953216374269003,16
+"('Hotel', 'University', 'Cafe', 'Pub', 'Company', 'Price Area')",0.5497076023391813,15
+"('Hotel', 'University', 'Cafe', 'Pub', 'Liffey', 'Price Area')",0.4678362573099415,15
+"('Hotel', 'University', 'Cafe', 'Luas', 'Museum', 'Restaurant')",0.4678362573099415,13
+"('Hotel', 'University', 'Cafe', 'Luas', 'Museum', 'Company')",0.5263157894736842,17
+"('Hotel', 'University', 'Cafe', 'Luas', 'Museum', 'Liffey')",0.47368421052631576,9
+"('Hotel', 'University', 'Cafe', 'Luas', 'Museum', 'Price Area')",0.4619883040935672,18
+"('Hotel', 'University', 'Cafe', 'Luas', 'Restaurant', 'Company')",0.49122807017543857,17
+"('Hotel', 'University', 'Cafe', 'Luas', 'Restaurant', 'Liffey')",0.4853801169590643,8
+"('Hotel', 'University', 'Cafe', 'Luas', 'Restaurant', 'Price Area')",0.49707602339181284,17
+"('Hotel', 'University', 'Cafe', 'Luas', 'Company', 'Liffey')",0.49122807017543857,14
+"('Hotel', 'University', 'Cafe', 'Luas', 'Company', 'Price Area')",0.5146198830409356,12
+"('Hotel', 'University', 'Cafe', 'Luas', 'Liffey', 'Price Area')",0.47368421052631576,6
+"('Hotel', 'University', 'Cafe', 'Museum', 'Restaurant', 'Company')",0.4853801169590643,14
+"('Hotel', 'University', 'Cafe', 'Museum', 'Restaurant', 'Liffey')",0.49122807017543857,10
+"('Hotel', 'University', 'Cafe', 'Museum', 'Restaurant', 'Price Area')",0.47368421052631576,17
+"('Hotel', 'University', 'Cafe', 'Museum', 'Company', 'Liffey')",0.4678362573099415,15
+"('Hotel', 'University', 'Cafe', 'Museum', 'Company', 'Price Area')",0.4853801169590643,10
+"('Hotel', 'University', 'Cafe', 'Museum', 'Liffey', 'Price Area')",0.4502923976608187,10
+"('Hotel', 'University', 'Cafe', 'Restaurant', 'Company', 'Liffey')",0.4678362573099415,15
+"('Hotel', 'University', 'Cafe', 'Restaurant', 'Company', 'Price Area')",0.5029239766081871,14
+"('Hotel', 'University', 'Cafe', 'Restaurant', 'Liffey', 'Price Area')",0.4619883040935672,8
+"('Hotel', 'University', 'Cafe', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,14
+"('Hotel', 'University', 'Pub', 'Luas', 'Museum', 'Restaurant')",0.47953216374269003,11
+"('Hotel', 'University', 'Pub', 'Luas', 'Museum', 'Company')",0.5263157894736842,15
+"('Hotel', 'University', 'Pub', 'Luas', 'Museum', 'Liffey')",0.5146198830409356,5
+"('Hotel', 'University', 'Pub', 'Luas', 'Museum', 'Price Area')",0.49122807017543857,17
+"('Hotel', 'University', 'Pub', 'Luas', 'Restaurant', 'Company')",0.5146198830409356,14
+"('Hotel', 'University', 'Pub', 'Luas', 'Restaurant', 'Liffey')",0.49707602339181284,9
+"('Hotel', 'University', 'Pub', 'Luas', 'Restaurant', 'Price Area')",0.52046783625731,17
+"('Hotel', 'University', 'Pub', 'Luas', 'Company', 'Liffey')",0.5029239766081871,14
+"('Hotel', 'University', 'Pub', 'Luas', 'Company', 'Price Area')",0.52046783625731,12
+"('Hotel', 'University', 'Pub', 'Luas', 'Liffey', 'Price Area')",0.49122807017543857,14
+"('Hotel', 'University', 'Pub', 'Museum', 'Restaurant', 'Company')",0.4853801169590643,15
+"('Hotel', 'University', 'Pub', 'Museum', 'Restaurant', 'Liffey')",0.4853801169590643,6
+"('Hotel', 'University', 'Pub', 'Museum', 'Restaurant', 'Price Area')",0.47953216374269003,11
+"('Hotel', 'University', 'Pub', 'Museum', 'Company', 'Liffey')",0.4619883040935672,10
+"('Hotel', 'University', 'Pub', 'Museum', 'Company', 'Price Area')",0.5029239766081871,10
+"('Hotel', 'University', 'Pub', 'Museum', 'Liffey', 'Price Area')",0.47953216374269003,14
+"('Hotel', 'University', 'Pub', 'Restaurant', 'Company', 'Liffey')",0.4619883040935672,14
+"('Hotel', 'University', 'Pub', 'Restaurant', 'Company', 'Price Area')",0.5321637426900585,14
+"('Hotel', 'University', 'Pub', 'Restaurant', 'Liffey', 'Price Area')",0.49122807017543857,14
+"('Hotel', 'University', 'Pub', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,18
+"('Hotel', 'University', 'Luas', 'Museum', 'Restaurant', 'Company')",0.5087719298245614,19
+"('Hotel', 'University', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.49707602339181284,11
+"('Hotel', 'University', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.49122807017543857,18
+"('Hotel', 'University', 'Luas', 'Museum', 'Company', 'Liffey')",0.49122807017543857,19
+"('Hotel', 'University', 'Luas', 'Museum', 'Company', 'Price Area')",0.49122807017543857,13
+"('Hotel', 'University', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.5029239766081871,8
+"('Hotel', 'University', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.49707602339181284,17
+"('Hotel', 'University', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.5146198830409356,15
+"('Hotel', 'University', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.49122807017543857,14
+"('Hotel', 'University', 'Luas', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,17
+"('Hotel', 'University', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.4619883040935672,13
+"('Hotel', 'University', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.4853801169590643,18
+"('Hotel', 'University', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.45614035087719296,14
+"('Hotel', 'University', 'Museum', 'Company', 'Liffey', 'Price Area')",0.4678362573099415,13
+"('Hotel', 'University', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,14
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant')",0.47368421052631576,17
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company')",0.4853801169590643,12
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Museum', 'Liffey')",0.47368421052631576,1
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Museum', 'Price Area')",0.49707602339181284,12
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company')",0.5087719298245614,16
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Liffey')",0.47953216374269003,18
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Price Area')",0.49707602339181284,19
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Company', 'Liffey')",0.4853801169590643,15
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Company', 'Price Area')",0.49707602339181284,16
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Liffey', 'Price Area')",0.4619883040935672,19
+"('Hotel', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company')",0.5087719298245614,18
+"('Hotel', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Liffey')",0.5146198830409356,1
+"('Hotel', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Price Area')",0.5029239766081871,13
+"('Hotel', 'Cafe', 'Pub', 'Museum', 'Company', 'Liffey')",0.49122807017543857,16
+"('Hotel', 'Cafe', 'Pub', 'Museum', 'Company', 'Price Area')",0.5321637426900585,18
+"('Hotel', 'Cafe', 'Pub', 'Museum', 'Liffey', 'Price Area')",0.47368421052631576,7
+"('Hotel', 'Cafe', 'Pub', 'Restaurant', 'Company', 'Liffey')",0.4678362573099415,13
+"('Hotel', 'Cafe', 'Pub', 'Restaurant', 'Company', 'Price Area')",0.5146198830409356,15
+"('Hotel', 'Cafe', 'Pub', 'Restaurant', 'Liffey', 'Price Area')",0.4853801169590643,15
+"('Hotel', 'Cafe', 'Pub', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,16
+"('Hotel', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company')",0.4853801169590643,15
+"('Hotel', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.49122807017543857,1
+"('Hotel', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.5029239766081871,12
+"('Hotel', 'Cafe', 'Luas', 'Museum', 'Company', 'Liffey')",0.49707602339181284,16
+"('Hotel', 'Cafe', 'Luas', 'Museum', 'Company', 'Price Area')",0.5087719298245614,12
+"('Hotel', 'Cafe', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.4853801169590643,1
+"('Hotel', 'Cafe', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.49122807017543857,17
+"('Hotel', 'Cafe', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.47953216374269003,16
+"('Hotel', 'Cafe', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.49122807017543857,17
+"('Hotel', 'Cafe', 'Luas', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,6
+"('Hotel', 'Cafe', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.47953216374269003,17
+"('Hotel', 'Cafe', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.49122807017543857,10
+"('Hotel', 'Cafe', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.47953216374269003,17
+"('Hotel', 'Cafe', 'Museum', 'Company', 'Liffey', 'Price Area')",0.5146198830409356,16
+"('Hotel', 'Cafe', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5087719298245614,15
+"('Hotel', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company')",0.49707602339181284,18
+"('Hotel', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.49122807017543857,1
+"('Hotel', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.49707602339181284,18
+"('Hotel', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey')",0.49122807017543857,16
+"('Hotel', 'Pub', 'Luas', 'Museum', 'Company', 'Price Area')",0.49707602339181284,9
+"('Hotel', 'Pub', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.49122807017543857,14
+"('Hotel', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.4853801169590643,17
+"('Hotel', 'Pub', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.49122807017543857,13
+"('Hotel', 'Pub', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.47368421052631576,18
+"('Hotel', 'Pub', 'Luas', 'Company', 'Liffey', 'Price Area')",0.45614035087719296,16
+"('Hotel', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.4853801169590643,7
+"('Hotel', 'Pub', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.49707602339181284,12
+"('Hotel', 'Pub', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4678362573099415,9
+"('Hotel', 'Pub', 'Museum', 'Company', 'Liffey', 'Price Area')",0.5146198830409356,14
+"('Hotel', 'Pub', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,14
+"('Hotel', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.5087719298245614,18
+"('Hotel', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.49707602339181284,12
+"('Hotel', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.47953216374269003,17
+"('Hotel', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,12
+"('Hotel', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,16
+"('Hotel', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,16
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum')",0.4678362573099415,9
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Restaurant')",0.45614035087719296,5
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Company')",0.47368421052631576,7
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Liffey')",0.47368421052631576,8
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Price Area')",0.47368421052631576,9
+"('Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Restaurant')",0.4678362573099415,15
+"('Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Company')",0.49122807017543857,18
+"('Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Liffey')",0.47368421052631576,17
+"('Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Price Area')",0.4853801169590643,16
+"('Tourism', 'University', 'Cafe', 'Pub', 'Restaurant', 'Company')",0.47953216374269003,13
+"('Tourism', 'University', 'Cafe', 'Pub', 'Restaurant', 'Liffey')",0.4853801169590643,14
+"('Tourism', 'University', 'Cafe', 'Pub', 'Restaurant', 'Price Area')",0.4502923976608187,12
+"('Tourism', 'University', 'Cafe', 'Pub', 'Company', 'Liffey')",0.4619883040935672,13
+"('Tourism', 'University', 'Cafe', 'Pub', 'Company', 'Price Area')",0.4619883040935672,13
+"('Tourism', 'University', 'Cafe', 'Pub', 'Liffey', 'Price Area')",0.47368421052631576,3
+"('Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Restaurant')",0.47953216374269003,17
+"('Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Company')",0.49707602339181284,14
+"('Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Liffey')",0.4678362573099415,5
+"('Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Price Area')",0.49122807017543857,14
+"('Tourism', 'University', 'Cafe', 'Luas', 'Restaurant', 'Company')",0.47368421052631576,17
+"('Tourism', 'University', 'Cafe', 'Luas', 'Restaurant', 'Liffey')",0.47953216374269003,5
+"('Tourism', 'University', 'Cafe', 'Luas', 'Restaurant', 'Price Area')",0.47368421052631576,9
+"('Tourism', 'University', 'Cafe', 'Luas', 'Company', 'Liffey')",0.49122807017543857,5
+"('Tourism', 'University', 'Cafe', 'Luas', 'Company', 'Price Area')",0.49707602339181284,5
+"('Tourism', 'University', 'Cafe', 'Luas', 'Liffey', 'Price Area')",0.4678362573099415,7
+"('Tourism', 'University', 'Cafe', 'Museum', 'Restaurant', 'Company')",0.4853801169590643,17
+"('Tourism', 'University', 'Cafe', 'Museum', 'Restaurant', 'Liffey')",0.4619883040935672,14
+"('Tourism', 'University', 'Cafe', 'Museum', 'Restaurant', 'Price Area')",0.4853801169590643,8
+"('Tourism', 'University', 'Cafe', 'Museum', 'Company', 'Liffey')",0.4619883040935672,14
+"('Tourism', 'University', 'Cafe', 'Museum', 'Company', 'Price Area')",0.4619883040935672,13
+"('Tourism', 'University', 'Cafe', 'Museum', 'Liffey', 'Price Area')",0.45614035087719296,5
+"('Tourism', 'University', 'Cafe', 'Restaurant', 'Company', 'Liffey')",0.47368421052631576,13
+"('Tourism', 'University', 'Cafe', 'Restaurant', 'Company', 'Price Area')",0.47953216374269003,14
+"('Tourism', 'University', 'Cafe', 'Restaurant', 'Liffey', 'Price Area')",0.47953216374269003,7
+"('Tourism', 'University', 'Cafe', 'Company', 'Liffey', 'Price Area')",0.4678362573099415,12
+"('Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Restaurant')",0.4619883040935672,19
+"('Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Company')",0.49707602339181284,9
+"('Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Liffey')",0.4853801169590643,9
+"('Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Price Area')",0.47953216374269003,18
+"('Tourism', 'University', 'Pub', 'Luas', 'Restaurant', 'Company')",0.4619883040935672,5
+"('Tourism', 'University', 'Pub', 'Luas', 'Restaurant', 'Liffey')",0.49122807017543857,8
+"('Tourism', 'University', 'Pub', 'Luas', 'Restaurant', 'Price Area')",0.47953216374269003,7
+"('Tourism', 'University', 'Pub', 'Luas', 'Company', 'Liffey')",0.4853801169590643,19
+"('Tourism', 'University', 'Pub', 'Luas', 'Company', 'Price Area')",0.47368421052631576,7
+"('Tourism', 'University', 'Pub', 'Luas', 'Liffey', 'Price Area')",0.47368421052631576,7
+"('Tourism', 'University', 'Pub', 'Museum', 'Restaurant', 'Company')",0.47953216374269003,17
+"('Tourism', 'University', 'Pub', 'Museum', 'Restaurant', 'Liffey')",0.4619883040935672,3
+"('Tourism', 'University', 'Pub', 'Museum', 'Restaurant', 'Price Area')",0.4853801169590643,16
+"('Tourism', 'University', 'Pub', 'Museum', 'Company', 'Liffey')",0.45614035087719296,6
+"('Tourism', 'University', 'Pub', 'Museum', 'Company', 'Price Area')",0.4678362573099415,16
+"('Tourism', 'University', 'Pub', 'Museum', 'Liffey', 'Price Area')",0.45614035087719296,5
+"('Tourism', 'University', 'Pub', 'Restaurant', 'Company', 'Liffey')",0.4619883040935672,17
+"('Tourism', 'University', 'Pub', 'Restaurant', 'Company', 'Price Area')",0.45614035087719296,13
+"('Tourism', 'University', 'Pub', 'Restaurant', 'Liffey', 'Price Area')",0.47953216374269003,3
+"('Tourism', 'University', 'Pub', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,14
+"('Tourism', 'University', 'Luas', 'Museum', 'Restaurant', 'Company')",0.49122807017543857,17
+"('Tourism', 'University', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.47953216374269003,9
+"('Tourism', 'University', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.4853801169590643,8
+"('Tourism', 'University', 'Luas', 'Museum', 'Company', 'Liffey')",0.49707602339181284,9
+"('Tourism', 'University', 'Luas', 'Museum', 'Company', 'Price Area')",0.5029239766081871,13
+"('Tourism', 'University', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.47953216374269003,14
+"('Tourism', 'University', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.4853801169590643,19
+"('Tourism', 'University', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.5029239766081871,7
+"('Tourism', 'University', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.4678362573099415,7
+"('Tourism', 'University', 'Luas', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,7
+"('Tourism', 'University', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.45614035087719296,19
+"('Tourism', 'University', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.47368421052631576,15
+"('Tourism', 'University', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4619883040935672,3
+"('Tourism', 'University', 'Museum', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,14
+"('Tourism', 'University', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.4678362573099415,14
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant')",0.47953216374269003,19
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company')",0.47368421052631576,12
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Liffey')",0.47368421052631576,1
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Price Area')",0.49122807017543857,14
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company')",0.47368421052631576,16
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Liffey')",0.4619883040935672,17
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Price Area')",0.49707602339181284,10
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Company', 'Liffey')",0.47368421052631576,17
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Company', 'Price Area')",0.49707602339181284,11
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Liffey', 'Price Area')",0.4619883040935672,14
+"('Tourism', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company')",0.49122807017543857,19
+"('Tourism', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Liffey')",0.47368421052631576,1
+"('Tourism', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Price Area')",0.52046783625731,19
+"('Tourism', 'Cafe', 'Pub', 'Museum', 'Company', 'Liffey')",0.4853801169590643,19
+"('Tourism', 'Cafe', 'Pub', 'Museum', 'Company', 'Price Area')",0.49122807017543857,13
+"('Tourism', 'Cafe', 'Pub', 'Museum', 'Liffey', 'Price Area')",0.47368421052631576,7
+"('Tourism', 'Cafe', 'Pub', 'Restaurant', 'Company', 'Liffey')",0.4853801169590643,14
+"('Tourism', 'Cafe', 'Pub', 'Restaurant', 'Company', 'Price Area')",0.4853801169590643,14
+"('Tourism', 'Cafe', 'Pub', 'Restaurant', 'Liffey', 'Price Area')",0.4678362573099415,1
+"('Tourism', 'Cafe', 'Pub', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,14
+"('Tourism', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company')",0.47368421052631576,16
+"('Tourism', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.47953216374269003,1
+"('Tourism', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.5029239766081871,17
+"('Tourism', 'Cafe', 'Luas', 'Museum', 'Company', 'Liffey')",0.47953216374269003,9
+"('Tourism', 'Cafe', 'Luas', 'Museum', 'Company', 'Price Area')",0.49707602339181284,12
+"('Tourism', 'Cafe', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.4853801169590643,1
+"('Tourism', 'Cafe', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.4678362573099415,18
+"('Tourism', 'Cafe', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.52046783625731,9
+"('Tourism', 'Cafe', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.4678362573099415,1
+"('Tourism', 'Cafe', 'Luas', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,16
+"('Tourism', 'Cafe', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.49707602339181284,19
+"('Tourism', 'Cafe', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.4853801169590643,19
+"('Tourism', 'Cafe', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.5087719298245614,19
+"('Tourism', 'Cafe', 'Museum', 'Company', 'Liffey', 'Price Area')",0.5146198830409356,16
+"('Tourism', 'Cafe', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,13
+"('Tourism', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company')",0.4678362573099415,15
+"('Tourism', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.49122807017543857,8
+"('Tourism', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.5087719298245614,10
+"('Tourism', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey')",0.47953216374269003,11
+"('Tourism', 'Pub', 'Luas', 'Museum', 'Company', 'Price Area')",0.49122807017543857,9
+"('Tourism', 'Pub', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.47368421052631576,14
+"('Tourism', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.49122807017543857,18
+"('Tourism', 'Pub', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.49122807017543857,8
+"('Tourism', 'Pub', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.4502923976608187,12
+"('Tourism', 'Pub', 'Luas', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,16
+"('Tourism', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.4853801169590643,19
+"('Tourism', 'Pub', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.4853801169590643,19
+"('Tourism', 'Pub', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4444444444444444,1
+"('Tourism', 'Pub', 'Museum', 'Company', 'Liffey', 'Price Area')",0.5087719298245614,19
+"('Tourism', 'Pub', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,14
+"('Tourism', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.49122807017543857,15
+"('Tourism', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.4853801169590643,10
+"('Tourism', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.47953216374269003,16
+"('Tourism', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,9
+"('Tourism', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.4619883040935672,18
+"('Tourism', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,15
+"('University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant')",0.45614035087719296,7
+"('University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company')",0.49707602339181284,17
+"('University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Liffey')",0.4619883040935672,5
+"('University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Price Area')",0.49707602339181284,14
+"('University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company')",0.5029239766081871,12
+"('University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Liffey')",0.5029239766081871,8
+"('University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Price Area')",0.4678362573099415,6
+"('University', 'Cafe', 'Pub', 'Luas', 'Company', 'Liffey')",0.5087719298245614,19
+"('University', 'Cafe', 'Pub', 'Luas', 'Company', 'Price Area')",0.49707602339181284,17
+"('University', 'Cafe', 'Pub', 'Luas', 'Liffey', 'Price Area')",0.47953216374269003,18
+"('University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company')",0.47953216374269003,13
+"('University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Liffey')",0.5146198830409356,6
+"('University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Price Area')",0.5087719298245614,15
+"('University', 'Cafe', 'Pub', 'Museum', 'Company', 'Liffey')",0.4619883040935672,10
+"('University', 'Cafe', 'Pub', 'Museum', 'Company', 'Price Area')",0.49122807017543857,16
+"('University', 'Cafe', 'Pub', 'Museum', 'Liffey', 'Price Area')",0.4502923976608187,10
+"('University', 'Cafe', 'Pub', 'Restaurant', 'Company', 'Liffey')",0.4678362573099415,13
+"('University', 'Cafe', 'Pub', 'Restaurant', 'Company', 'Price Area')",0.4853801169590643,16
+"('University', 'Cafe', 'Pub', 'Restaurant', 'Liffey', 'Price Area')",0.4619883040935672,19
+"('University', 'Cafe', 'Pub', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,16
+"('University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company')",0.5087719298245614,13
+"('University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.4619883040935672,4
+"('University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.5029239766081871,12
+"('University', 'Cafe', 'Luas', 'Museum', 'Company', 'Liffey')",0.5087719298245614,11
+"('University', 'Cafe', 'Luas', 'Museum', 'Company', 'Price Area')",0.49707602339181284,15
+"('University', 'Cafe', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.47368421052631576,19
+"('University', 'Cafe', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.49122807017543857,19
+"('University', 'Cafe', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.49707602339181284,7
+"('University', 'Cafe', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.49122807017543857,19
+"('University', 'Cafe', 'Luas', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,18
+"('University', 'Cafe', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.4619883040935672,17
+"('University', 'Cafe', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.47953216374269003,19
+"('University', 'Cafe', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4619883040935672,6
+"('University', 'Cafe', 'Museum', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,12
+"('University', 'Cafe', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,15
+"('University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company')",0.5029239766081871,19
+"('University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.47368421052631576,19
+"('University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.4853801169590643,15
+"('University', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey')",0.49707602339181284,10
+"('University', 'Pub', 'Luas', 'Museum', 'Company', 'Price Area')",0.49707602339181284,12
+"('University', 'Pub', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.49707602339181284,17
+"('University', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.5087719298245614,17
+"('University', 'Pub', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.49122807017543857,11
+"('University', 'Pub', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.4853801169590643,10
+"('University', 'Pub', 'Luas', 'Company', 'Liffey', 'Price Area')",0.5146198830409356,19
+"('University', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.4619883040935672,19
+"('University', 'Pub', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.49707602339181284,15
+"('University', 'Pub', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4853801169590643,9
+"('University', 'Pub', 'Museum', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,18
+"('University', 'Pub', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,17
+"('University', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.49122807017543857,10
+"('University', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.5263157894736842,12
+"('University', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.49707602339181284,17
+"('University', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,10
+"('University', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,16
+"('University', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,12
+"('Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company')",0.5087719298245614,12
+"('Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.4678362573099415,1
+"('Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.5029239766081871,18
+"('Cafe', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey')",0.49707602339181284,1
+"('Cafe', 'Pub', 'Luas', 'Museum', 'Company', 'Price Area')",0.5029239766081871,19
+"('Cafe', 'Pub', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.49122807017543857,1
+"('Cafe', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.5029239766081871,18
+"('Cafe', 'Pub', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.49122807017543857,10
+"('Cafe', 'Pub', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.47368421052631576,9
+"('Cafe', 'Pub', 'Luas', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,1
+"('Cafe', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.47953216374269003,13
+"('Cafe', 'Pub', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.52046783625731,16
+"('Cafe', 'Pub', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4853801169590643,7
+"('Cafe', 'Pub', 'Museum', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,19
+"('Cafe', 'Pub', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5087719298245614,18
+"('Cafe', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.49122807017543857,16
+"('Cafe', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.49122807017543857,13
+"('Cafe', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4853801169590643,1
+"('Cafe', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.5087719298245614,9
+"('Cafe', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,16
+"('Cafe', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,13
+"('Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.4853801169590643,14
+"('Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.5029239766081871,12
+"('Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.47368421052631576,17
+"('Pub', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,9
+"('Pub', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,16
+"('Pub', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,13
+"('Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,9
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum')",0.4853801169590643,15
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Restaurant')",0.47368421052631576,17
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Company')",0.49122807017543857,15
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Liffey')",0.47953216374269003,10
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Price Area')",0.47953216374269003,8
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Restaurant')",0.45614035087719296,10
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Company')",0.5029239766081871,13
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Liffey')",0.47953216374269003,13
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Price Area')",0.4678362573099415,15
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Restaurant', 'Company')",0.4853801169590643,17
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Restaurant', 'Liffey')",0.49707602339181284,10
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Restaurant', 'Price Area')",0.5029239766081871,15
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Company', 'Liffey')",0.47368421052631576,13
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Company', 'Price Area')",0.49707602339181284,15
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Liffey', 'Price Area')",0.47953216374269003,6
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Restaurant')",0.47953216374269003,6
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Company')",0.49707602339181284,14
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Liffey')",0.5029239766081871,9
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Price Area')",0.4853801169590643,15
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Restaurant', 'Company')",0.49122807017543857,14
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Restaurant', 'Liffey')",0.4619883040935672,5
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Restaurant', 'Price Area')",0.4678362573099415,13
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Company', 'Liffey')",0.5029239766081871,19
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Company', 'Price Area')",0.4853801169590643,13
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Liffey', 'Price Area')",0.47368421052631576,3
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Museum', 'Restaurant', 'Company')",0.47953216374269003,18
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Museum', 'Restaurant', 'Liffey')",0.47368421052631576,9
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Museum', 'Restaurant', 'Price Area')",0.4619883040935672,17
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Museum', 'Company', 'Liffey')",0.4619883040935672,17
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Museum', 'Company', 'Price Area')",0.4853801169590643,13
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Museum', 'Liffey', 'Price Area')",0.4678362573099415,5
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Restaurant', 'Company', 'Liffey')",0.47368421052631576,13
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Restaurant', 'Company', 'Price Area')",0.4853801169590643,15
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Restaurant', 'Liffey', 'Price Area')",0.4678362573099415,3
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,15
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Restaurant')",0.4853801169590643,17
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Company')",0.5146198830409356,19
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Liffey')",0.5087719298245614,9
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Price Area')",0.47368421052631576,17
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Restaurant', 'Company')",0.5029239766081871,19
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Restaurant', 'Liffey')",0.5146198830409356,9
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Restaurant', 'Price Area')",0.4619883040935672,13
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Company', 'Liffey')",0.49122807017543857,19
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Company', 'Price Area')",0.49122807017543857,15
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Liffey', 'Price Area')",0.47953216374269003,7
+"('Hotel', 'Tourism', 'University', 'Pub', 'Museum', 'Restaurant', 'Company')",0.4853801169590643,17
+"('Hotel', 'Tourism', 'University', 'Pub', 'Museum', 'Restaurant', 'Liffey')",0.4678362573099415,6
+"('Hotel', 'Tourism', 'University', 'Pub', 'Museum', 'Restaurant', 'Price Area')",0.47368421052631576,19
+"('Hotel', 'Tourism', 'University', 'Pub', 'Museum', 'Company', 'Liffey')",0.45614035087719296,17
+"('Hotel', 'Tourism', 'University', 'Pub', 'Museum', 'Company', 'Price Area')",0.4853801169590643,14
+"('Hotel', 'Tourism', 'University', 'Pub', 'Museum', 'Liffey', 'Price Area')",0.45614035087719296,7
+"('Hotel', 'Tourism', 'University', 'Pub', 'Restaurant', 'Company', 'Liffey')",0.4678362573099415,17
+"('Hotel', 'Tourism', 'University', 'Pub', 'Restaurant', 'Company', 'Price Area')",0.49707602339181284,18
+"('Hotel', 'Tourism', 'University', 'Pub', 'Restaurant', 'Liffey', 'Price Area')",0.4678362573099415,5
+"('Hotel', 'Tourism', 'University', 'Pub', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,15
+"('Hotel', 'Tourism', 'University', 'Luas', 'Museum', 'Restaurant', 'Company')",0.4853801169590643,17
+"('Hotel', 'Tourism', 'University', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.5029239766081871,9
+"('Hotel', 'Tourism', 'University', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.4678362573099415,18
+"('Hotel', 'Tourism', 'University', 'Luas', 'Museum', 'Company', 'Liffey')",0.5029239766081871,14
+"('Hotel', 'Tourism', 'University', 'Luas', 'Museum', 'Company', 'Price Area')",0.47368421052631576,17
+"('Hotel', 'Tourism', 'University', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.49707602339181284,7
+"('Hotel', 'Tourism', 'University', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.49122807017543857,19
+"('Hotel', 'Tourism', 'University', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.49122807017543857,16
+"('Hotel', 'Tourism', 'University', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.4853801169590643,8
+"('Hotel', 'Tourism', 'University', 'Luas', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,17
+"('Hotel', 'Tourism', 'University', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.45614035087719296,10
+"('Hotel', 'Tourism', 'University', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.4853801169590643,18
+"('Hotel', 'Tourism', 'University', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4502923976608187,3
+"('Hotel', 'Tourism', 'University', 'Museum', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,14
+"('Hotel', 'Tourism', 'University', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.4678362573099415,16
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant')",0.47953216374269003,8
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company')",0.47953216374269003,17
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Liffey')",0.4678362573099415,18
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Price Area')",0.5146198830409356,10
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company')",0.49122807017543857,18
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Liffey')",0.45614035087719296,14
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Price Area')",0.49122807017543857,18
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Company', 'Liffey')",0.4853801169590643,17
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Company', 'Price Area')",0.47953216374269003,6
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Liffey', 'Price Area')",0.4619883040935672,17
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company')",0.47953216374269003,19
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Liffey')",0.47953216374269003,1
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Price Area')",0.5029239766081871,18
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Museum', 'Company', 'Liffey')",0.47368421052631576,18
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Museum', 'Company', 'Price Area')",0.49707602339181284,13
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Museum', 'Liffey', 'Price Area')",0.4619883040935672,18
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Restaurant', 'Company', 'Liffey')",0.47953216374269003,14
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Restaurant', 'Company', 'Price Area')",0.5029239766081871,15
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Restaurant', 'Liffey', 'Price Area')",0.4678362573099415,14
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,14
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company')",0.4853801169590643,9
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.4853801169590643,17
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.5029239766081871,16
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Museum', 'Company', 'Liffey')",0.47953216374269003,14
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Museum', 'Company', 'Price Area')",0.49122807017543857,11
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.49122807017543857,17
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.49707602339181284,17
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.49122807017543857,6
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.4678362573099415,17
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,18
+"('Hotel', 'Tourism', 'Cafe', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.4619883040935672,1
+"('Hotel', 'Tourism', 'Cafe', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.49122807017543857,19
+"('Hotel', 'Tourism', 'Cafe', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4678362573099415,17
+"('Hotel', 'Tourism', 'Cafe', 'Museum', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,18
+"('Hotel', 'Tourism', 'Cafe', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,14
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company')",0.47953216374269003,16
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.4853801169590643,19
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.49707602339181284,18
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey')",0.5029239766081871,17
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Museum', 'Company', 'Price Area')",0.47953216374269003,8
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.49122807017543857,7
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.47953216374269003,17
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.47953216374269003,6
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.45614035087719296,17
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,19
+"('Hotel', 'Tourism', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.49122807017543857,18
+"('Hotel', 'Tourism', 'Pub', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.49122807017543857,14
+"('Hotel', 'Tourism', 'Pub', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4619883040935672,14
+"('Hotel', 'Tourism', 'Pub', 'Museum', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,16
+"('Hotel', 'Tourism', 'Pub', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5146198830409356,14
+"('Hotel', 'Tourism', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.49707602339181284,14
+"('Hotel', 'Tourism', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.4853801169590643,15
+"('Hotel', 'Tourism', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4853801169590643,17
+"('Hotel', 'Tourism', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,17
+"('Hotel', 'Tourism', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,18
+"('Hotel', 'Tourism', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,14
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant')",0.47953216374269003,19
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company')",0.5087719298245614,14
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Liffey')",0.4853801169590643,11
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Price Area')",0.47368421052631576,18
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company')",0.5087719298245614,13
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Liffey')",0.49122807017543857,6
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Price Area')",0.47953216374269003,17
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Company', 'Liffey')",0.5087719298245614,14
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Company', 'Price Area')",0.5146198830409356,13
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Liffey', 'Price Area')",0.47953216374269003,6
+"('Hotel', 'University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company')",0.52046783625731,13
+"('Hotel', 'University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Liffey')",0.4853801169590643,6
+"('Hotel', 'University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Price Area')",0.49122807017543857,15
+"('Hotel', 'University', 'Cafe', 'Pub', 'Museum', 'Company', 'Liffey')",0.4853801169590643,15
+"('Hotel', 'University', 'Cafe', 'Pub', 'Museum', 'Company', 'Price Area')",0.52046783625731,15
+"('Hotel', 'University', 'Cafe', 'Pub', 'Museum', 'Liffey', 'Price Area')",0.4678362573099415,6
+"('Hotel', 'University', 'Cafe', 'Pub', 'Restaurant', 'Company', 'Liffey')",0.47368421052631576,14
+"('Hotel', 'University', 'Cafe', 'Pub', 'Restaurant', 'Company', 'Price Area')",0.5087719298245614,16
+"('Hotel', 'University', 'Cafe', 'Pub', 'Restaurant', 'Liffey', 'Price Area')",0.4678362573099415,6
+"('Hotel', 'University', 'Cafe', 'Pub', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,15
+"('Hotel', 'University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company')",0.49707602339181284,13
+"('Hotel', 'University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.4678362573099415,6
+"('Hotel', 'University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.4678362573099415,13
+"('Hotel', 'University', 'Cafe', 'Luas', 'Museum', 'Company', 'Liffey')",0.5087719298245614,14
+"('Hotel', 'University', 'Cafe', 'Luas', 'Museum', 'Company', 'Price Area')",0.5087719298245614,17
+"('Hotel', 'University', 'Cafe', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.4678362573099415,19
+"('Hotel', 'University', 'Cafe', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.4853801169590643,14
+"('Hotel', 'University', 'Cafe', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.49707602339181284,13
+"('Hotel', 'University', 'Cafe', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.47368421052631576,17
+"('Hotel', 'University', 'Cafe', 'Luas', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,14
+"('Hotel', 'University', 'Cafe', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.4678362573099415,14
+"('Hotel', 'University', 'Cafe', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.4853801169590643,12
+"('Hotel', 'University', 'Cafe', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.47953216374269003,10
+"('Hotel', 'University', 'Cafe', 'Museum', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,14
+"('Hotel', 'University', 'Cafe', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,14
+"('Hotel', 'University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company')",0.52046783625731,19
+"('Hotel', 'University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.49122807017543857,19
+"('Hotel', 'University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.49122807017543857,17
+"('Hotel', 'University', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey')",0.49707602339181284,15
+"('Hotel', 'University', 'Pub', 'Luas', 'Museum', 'Company', 'Price Area')",0.5146198830409356,15
+"('Hotel', 'University', 'Pub', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.5029239766081871,5
+"('Hotel', 'University', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.5146198830409356,16
+"('Hotel', 'University', 'Pub', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.5029239766081871,13
+"('Hotel', 'University', 'Pub', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.4853801169590643,9
+"('Hotel', 'University', 'Pub', 'Luas', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,14
+"('Hotel', 'University', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.47953216374269003,14
+"('Hotel', 'University', 'Pub', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.49707602339181284,15
+"('Hotel', 'University', 'Pub', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.47368421052631576,10
+"('Hotel', 'University', 'Pub', 'Museum', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,10
+"('Hotel', 'University', 'Pub', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,14
+"('Hotel', 'University', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.5029239766081871,19
+"('Hotel', 'University', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.5263157894736842,12
+"('Hotel', 'University', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4853801169590643,19
+"('Hotel', 'University', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,19
+"('Hotel', 'University', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,14
+"('Hotel', 'University', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,10
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company')",0.47953216374269003,18
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.49122807017543857,1
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.5087719298245614,17
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey')",0.5087719298245614,17
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company', 'Price Area')",0.4853801169590643,7
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.4678362573099415,1
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.52046783625731,18
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.5029239766081871,16
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.5029239766081871,17
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,16
+"('Hotel', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.49122807017543857,17
+"('Hotel', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.5146198830409356,18
+"('Hotel', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.47953216374269003,13
+"('Hotel', 'Cafe', 'Pub', 'Museum', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,16
+"('Hotel', 'Cafe', 'Pub', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,16
+"('Hotel', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.49122807017543857,15
+"('Hotel', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.49707602339181284,15
+"('Hotel', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.47953216374269003,17
+"('Hotel', 'Cafe', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,12
+"('Hotel', 'Cafe', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,6
+"('Hotel', 'Cafe', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,14
+"('Hotel', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.49707602339181284,17
+"('Hotel', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.49122807017543857,18
+"('Hotel', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.47953216374269003,11
+"('Hotel', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,14
+"('Hotel', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,13
+"('Hotel', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,12
+"('Hotel', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,18
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant')",0.4678362573099415,12
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company')",0.47368421052631576,15
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Liffey')",0.4678362573099415,5
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Price Area')",0.47368421052631576,12
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company')",0.4678362573099415,5
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Liffey')",0.47368421052631576,8
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Price Area')",0.4619883040935672,5
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Company', 'Liffey')",0.4853801169590643,16
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Company', 'Price Area')",0.49122807017543857,7
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Liffey', 'Price Area')",0.47368421052631576,5
+"('Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company')",0.49122807017543857,17
+"('Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Liffey')",0.4619883040935672,1
+"('Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Price Area')",0.49707602339181284,15
+"('Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Company', 'Liffey')",0.4678362573099415,14
+"('Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Company', 'Price Area')",0.4678362573099415,15
+"('Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Liffey', 'Price Area')",0.4502923976608187,17
+"('Tourism', 'University', 'Cafe', 'Pub', 'Restaurant', 'Company', 'Liffey')",0.4619883040935672,14
+"('Tourism', 'University', 'Cafe', 'Pub', 'Restaurant', 'Company', 'Price Area')",0.47368421052631576,13
+"('Tourism', 'University', 'Cafe', 'Pub', 'Restaurant', 'Liffey', 'Price Area')",0.4678362573099415,14
+"('Tourism', 'University', 'Cafe', 'Pub', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,19
+"('Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company')",0.49707602339181284,14
+"('Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.4678362573099415,7
+"('Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.49122807017543857,13
+"('Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Company', 'Liffey')",0.49122807017543857,19
+"('Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Company', 'Price Area')",0.49122807017543857,13
+"('Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.47368421052631576,5
+"('Tourism', 'University', 'Cafe', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.47953216374269003,15
+"('Tourism', 'University', 'Cafe', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.4853801169590643,17
+"('Tourism', 'University', 'Cafe', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.47953216374269003,5
+"('Tourism', 'University', 'Cafe', 'Luas', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,7
+"('Tourism', 'University', 'Cafe', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.4502923976608187,6
+"('Tourism', 'University', 'Cafe', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.4853801169590643,19
+"('Tourism', 'University', 'Cafe', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4619883040935672,19
+"('Tourism', 'University', 'Cafe', 'Museum', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,14
+"('Tourism', 'University', 'Cafe', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,6
+"('Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company')",0.49122807017543857,14
+"('Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.47953216374269003,9
+"('Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.47368421052631576,8
+"('Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey')",0.49122807017543857,14
+"('Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Company', 'Price Area')",0.47953216374269003,10
+"('Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.49122807017543857,9
+"('Tourism', 'University', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.5029239766081871,19
+"('Tourism', 'University', 'Pub', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.47953216374269003,5
+"('Tourism', 'University', 'Pub', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.47368421052631576,7
+"('Tourism', 'University', 'Pub', 'Luas', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,17
+"('Tourism', 'University', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.4502923976608187,10
+"('Tourism', 'University', 'Pub', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.4619883040935672,13
+"('Tourism', 'University', 'Pub', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4619883040935672,3
+"('Tourism', 'University', 'Pub', 'Museum', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,16
+"('Tourism', 'University', 'Pub', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,17
+"('Tourism', 'University', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.47953216374269003,19
+"('Tourism', 'University', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.49122807017543857,12
+"('Tourism', 'University', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.47368421052631576,17
+"('Tourism', 'University', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,9
+"('Tourism', 'University', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,16
+"('Tourism', 'University', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,16
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company')",0.4853801169590643,9
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.4678362573099415,12
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.5087719298245614,10
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey')",0.47953216374269003,15
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company', 'Price Area')",0.4853801169590643,15
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.47953216374269003,7
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.47953216374269003,18
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.4853801169590643,7
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.4619883040935672,9
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,18
+"('Tourism', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.4619883040935672,1
+"('Tourism', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.5087719298245614,16
+"('Tourism', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.47368421052631576,19
+"('Tourism', 'Cafe', 'Pub', 'Museum', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,19
+"('Tourism', 'Cafe', 'Pub', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,14
+"('Tourism', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.47953216374269003,16
+"('Tourism', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.47368421052631576,10
+"('Tourism', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.47953216374269003,1
+"('Tourism', 'Cafe', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,15
+"('Tourism', 'Cafe', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,18
+"('Tourism', 'Cafe', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,16
+"('Tourism', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.47368421052631576,9
+"('Tourism', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.49707602339181284,9
+"('Tourism', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.47368421052631576,16
+"('Tourism', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,12
+"('Tourism', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,18
+"('Tourism', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,19
+"('Tourism', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,15
+"('University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company')",0.5029239766081871,12
+"('University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.4678362573099415,6
+"('University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.49122807017543857,12
+"('University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey')",0.49122807017543857,12
+"('University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company', 'Price Area')",0.5029239766081871,17
+"('University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.47368421052631576,1
+"('University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.5029239766081871,18
+"('University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.49707602339181284,12
+"('University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.47368421052631576,6
+"('University', 'Cafe', 'Pub', 'Luas', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,19
+"('University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.4678362573099415,6
+"('University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.49122807017543857,16
+"('University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4853801169590643,6
+"('University', 'Cafe', 'Pub', 'Museum', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,14
+"('University', 'Cafe', 'Pub', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,16
+"('University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.49122807017543857,14
+"('University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.52046783625731,13
+"('University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.47368421052631576,18
+"('University', 'Cafe', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.5087719298245614,11
+"('University', 'Cafe', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,16
+"('University', 'Cafe', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,12
+"('University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.4853801169590643,18
+"('University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.5029239766081871,12
+"('University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4853801169590643,17
+"('University', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,11
+"('University', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,17
+"('University', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,16
+"('University', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,12
+"('Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.4853801169590643,1
+"('Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.5087719298245614,10
+"('Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.47953216374269003,1
+"('Cafe', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,1
+"('Cafe', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,16
+"('Cafe', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,13
+"('Cafe', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,16
+"('Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,16
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant')",0.47953216374269003,17
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company')",0.5029239766081871,15
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Liffey')",0.4853801169590643,8
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Price Area')",0.47953216374269003,13
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company')",0.4853801169590643,14
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Liffey')",0.47953216374269003,8
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Price Area')",0.47368421052631576,13
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Company', 'Liffey')",0.49122807017543857,16
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Company', 'Price Area')",0.47953216374269003,5
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Liffey', 'Price Area')",0.47368421052631576,7
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company')",0.47368421052631576,13
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Liffey')",0.4678362573099415,8
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Price Area')",0.4678362573099415,13
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Company', 'Liffey')",0.45614035087719296,13
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Company', 'Price Area')",0.4853801169590643,12
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Liffey', 'Price Area')",0.4619883040935672,10
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Restaurant', 'Company', 'Liffey')",0.47368421052631576,14
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Restaurant', 'Company', 'Price Area')",0.49707602339181284,14
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Restaurant', 'Liffey', 'Price Area')",0.4502923976608187,6
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,14
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company')",0.49707602339181284,15
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.47953216374269003,9
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.4853801169590643,6
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Company', 'Liffey')",0.5029239766081871,19
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Company', 'Price Area')",0.5029239766081871,17
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.47368421052631576,7
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.49122807017543857,19
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.49707602339181284,15
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.4678362573099415,5
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,17
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.4678362573099415,15
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.47953216374269003,18
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4619883040935672,10
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Museum', 'Company', 'Liffey', 'Price Area')",0.4678362573099415,19
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,16
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company')",0.5087719298245614,19
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.4853801169590643,9
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.47368421052631576,13
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey')",0.5087719298245614,14
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Company', 'Price Area')",0.49707602339181284,19
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.49707602339181284,8
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.49707602339181284,19
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.49122807017543857,19
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.49122807017543857,9
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,16
+"('Hotel', 'Tourism', 'University', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.45614035087719296,17
+"('Hotel', 'Tourism', 'University', 'Pub', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.47368421052631576,13
+"('Hotel', 'Tourism', 'University', 'Pub', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.45614035087719296,6
+"('Hotel', 'Tourism', 'University', 'Pub', 'Museum', 'Company', 'Liffey', 'Price Area')",0.4678362573099415,15
+"('Hotel', 'Tourism', 'University', 'Pub', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,17
+"('Hotel', 'Tourism', 'University', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.5029239766081871,19
+"('Hotel', 'Tourism', 'University', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.49707602339181284,17
+"('Hotel', 'Tourism', 'University', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.47368421052631576,8
+"('Hotel', 'Tourism', 'University', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.5087719298245614,14
+"('Hotel', 'Tourism', 'University', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,16
+"('Hotel', 'Tourism', 'University', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.45614035087719296,16
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company')",0.4853801169590643,12
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.47953216374269003,17
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.5087719298245614,10
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey')",0.5029239766081871,17
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company', 'Price Area')",0.47953216374269003,7
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.47368421052631576,17
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.49122807017543857,17
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.4853801169590643,7
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.45614035087719296,17
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Company', 'Liffey', 'Price Area')",0.4619883040935672,17
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.47368421052631576,19
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.49122807017543857,15
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4619883040935672,19
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Museum', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,19
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.52046783625731,14
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.49122807017543857,17
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.47953216374269003,9
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.47368421052631576,17
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,13
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,17
+"('Hotel', 'Tourism', 'Cafe', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,16
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.47953216374269003,19
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.47368421052631576,14
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4619883040935672,7
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,14
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,16
+"('Hotel', 'Tourism', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,19
+"('Hotel', 'Tourism', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,14
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company')",0.5087719298245614,15
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.4678362573099415,4
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.49122807017543857,17
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey')",0.5087719298245614,14
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company', 'Price Area')",0.5087719298245614,13
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.47368421052631576,5
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.49122807017543857,18
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.5146198830409356,13
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.47368421052631576,6
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Company', 'Liffey', 'Price Area')",0.5146198830409356,14
+"('Hotel', 'University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.4678362573099415,13
+"('Hotel', 'University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.52046783625731,13
+"('Hotel', 'University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4619883040935672,14
+"('Hotel', 'University', 'Cafe', 'Pub', 'Museum', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,14
+"('Hotel', 'University', 'Cafe', 'Pub', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5087719298245614,15
+"('Hotel', 'University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.5146198830409356,18
+"('Hotel', 'University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.5087719298245614,13
+"('Hotel', 'University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.47368421052631576,18
+"('Hotel', 'University', 'Cafe', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.5087719298245614,12
+"('Hotel', 'University', 'Cafe', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,15
+"('Hotel', 'University', 'Cafe', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,12
+"('Hotel', 'University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.52046783625731,18
+"('Hotel', 'University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.5029239766081871,12
+"('Hotel', 'University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4853801169590643,5
+"('Hotel', 'University', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,17
+"('Hotel', 'University', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5146198830409356,16
+"('Hotel', 'University', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,14
+"('Hotel', 'University', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5087719298245614,12
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.47953216374269003,1
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.49122807017543857,7
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4678362573099415,1
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,14
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,16
+"('Hotel', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,17
+"('Hotel', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,17
+"('Hotel', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,14
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company')",0.49122807017543857,12
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.47953216374269003,8
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.49707602339181284,12
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey')",0.47368421052631576,14
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company', 'Price Area')",0.4678362573099415,5
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.47953216374269003,7
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.4853801169590643,18
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.4853801169590643,13
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.47368421052631576,7
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,16
+"('Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.4619883040935672,17
+"('Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.4853801169590643,13
+"('Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4502923976608187,1
+"('Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,16
+"('Tourism', 'University', 'Cafe', 'Pub', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,14
+"('Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.47953216374269003,14
+"('Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.49122807017543857,14
+"('Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4853801169590643,7
+"('Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,14
+"('Tourism', 'University', 'Cafe', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,16
+"('Tourism', 'University', 'Cafe', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.4678362573099415,18
+"('Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.4853801169590643,14
+"('Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.47368421052631576,5
+"('Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.47953216374269003,7
+"('Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,14
+"('Tourism', 'University', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,7
+"('Tourism', 'University', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.4619883040935672,14
+"('Tourism', 'University', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,14
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.47953216374269003,16
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.49122807017543857,9
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.47368421052631576,16
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,15
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.4678362573099415,16
+"('Tourism', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,13
+"('Tourism', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,15
+"('Tourism', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,15
+"('University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.47368421052631576,12
+"('University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.5146198830409356,12
+"('University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.47953216374269003,19
+"('University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.5146198830409356,12
+"('University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,14
+"('University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,13
+"('University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5087719298245614,12
+"('University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,18
+"('Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,15
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company')",0.49707602339181284,12
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey')",0.47953216374269003,12
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Price Area')",0.5029239766081871,13
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey')",0.47953216374269003,15
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company', 'Price Area')",0.49707602339181284,13
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Liffey', 'Price Area')",0.4678362573099415,7
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey')",0.49122807017543857,17
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company', 'Price Area')",0.4853801169590643,13
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Liffey', 'Price Area')",0.4678362573099415,5
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,16
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.4619883040935672,14
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.49122807017543857,13
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4444444444444444,7
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,15
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,14
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.4853801169590643,17
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.49707602339181284,13
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4678362573099415,19
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,17
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,17
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,15
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.49707602339181284,18
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.49707602339181284,13
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.47953216374269003,7
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.5087719298245614,14
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,12
+"('Hotel', 'Tourism', 'University', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,17
+"('Hotel', 'Tourism', 'University', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,17
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.47953216374269003,17
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.47953216374269003,7
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.47368421052631576,16
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,13
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,17
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,16
+"('Hotel', 'Tourism', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.4678362573099415,9
+"('Hotel', 'Tourism', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,14
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.49122807017543857,17
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.52046783625731,12
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.4619883040935672,17
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,12
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,14
+"('Hotel', 'University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,14
+"('Hotel', 'University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5146198830409356,11
+"('Hotel', 'University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5146198830409356,17
+"('Hotel', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,14
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.47953216374269003,17
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.49707602339181284,12
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.47368421052631576,7
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,14
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,5
+"('Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,17
+"('Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,14
+"('Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,14
+"('Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,16
+"('University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,13
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey')",0.47953216374269003,17
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Price Area')",0.5087719298245614,13
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Liffey', 'Price Area')",0.47368421052631576,12
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,12
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47368421052631576,17
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49122807017543857,14
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.4853801169590643,13
+"('Hotel', 'Tourism', 'University', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.49707602339181284,17
+"('Hotel', 'Tourism', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,13
+"('Hotel', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.5029239766081871,12
+"('Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,12
+"('Hotel', 'Tourism', 'University', 'Cafe', 'Pub', 'Luas', 'Museum', 'Restaurant', 'Company', 'Liffey', 'Price Area')",0.47953216374269003,17
