@@ -14,4 +14,9 @@ For improved user experience use Jupyter nbviewer to access to this repository
 https://nbviewer.jupyter.org/github/jotagar/IBM_Data_Science_Capstone/blob/master/0.Table_of_Contents_Code.ipynb?flush_cache=true
 
 Full Report:
+Project_Report.pdf
 https://nbviewer.jupyter.org/github/jotagar/IBM_Data_Science_Capstone/blob/master/Project_Report.pdf?flush_cache=true
+
+Presentation:
+Project_Presentation.pdf
+https://nbviewer.jupyter.org/github/jotagar/IBM_Data_Science_Capstone/blob/master/Project_Presentation.pdf?flush_cache=true
